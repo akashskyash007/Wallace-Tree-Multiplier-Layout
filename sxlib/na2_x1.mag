@@ -1,0 +1,118 @@
+magic
+tech scmos
+timestamp 1199542322
+<< ab >>
+rect 0 0 40 100
+<< nwell >>
+rect -2 48 42 104
+<< pwell >>
+rect -2 -4 42 48
+<< poly >>
+rect 13 85 15 88
+rect 25 85 27 88
+rect 13 63 15 65
+rect 7 61 15 63
+rect 7 59 9 61
+rect 11 59 15 61
+rect 7 57 15 59
+rect 13 35 15 57
+rect 25 43 27 65
+rect 25 41 33 43
+rect 25 39 29 41
+rect 31 39 33 41
+rect 21 37 33 39
+rect 21 35 23 37
+rect 13 12 15 15
+rect 21 12 23 15
+<< ndif >>
+rect 5 15 13 35
+rect 15 15 21 35
+rect 23 21 31 35
+rect 23 19 27 21
+rect 29 19 31 21
+rect 23 15 31 19
+rect 5 11 11 15
+rect 5 9 7 11
+rect 9 9 11 11
+rect 5 7 11 9
+<< pdif >>
+rect 5 91 11 93
+rect 5 89 7 91
+rect 9 89 11 91
+rect 5 85 11 89
+rect 29 91 35 93
+rect 29 89 31 91
+rect 33 89 35 91
+rect 29 85 35 89
+rect 5 65 13 85
+rect 15 81 25 85
+rect 15 79 19 81
+rect 21 79 25 81
+rect 15 71 25 79
+rect 15 69 19 71
+rect 21 69 25 71
+rect 15 65 25 69
+rect 27 65 35 85
+<< alu1 >>
+rect -2 91 42 100
+rect -2 89 7 91
+rect 9 89 31 91
+rect 33 89 42 91
+rect -2 88 42 89
+rect 8 61 12 82
+rect 8 59 9 61
+rect 11 59 12 61
+rect 8 18 12 59
+rect 18 81 22 82
+rect 18 79 19 81
+rect 21 79 22 81
+rect 18 71 22 79
+rect 18 69 19 71
+rect 21 69 22 71
+rect 18 22 22 69
+rect 28 41 32 82
+rect 28 39 29 41
+rect 31 39 32 41
+rect 28 28 32 39
+rect 18 21 30 22
+rect 18 19 27 21
+rect 29 19 30 21
+rect 18 18 30 19
+rect -2 11 42 12
+rect -2 9 7 11
+rect 9 9 42 11
+rect -2 7 42 9
+rect -2 5 24 7
+rect 26 5 42 7
+rect -2 0 42 5
+<< ptie >>
+rect 22 7 35 9
+rect 22 5 24 7
+rect 26 5 35 7
+rect 22 3 35 5
+<< nmos >>
+rect 13 15 15 35
+rect 21 15 23 35
+<< pmos >>
+rect 13 65 15 85
+rect 25 65 27 85
+<< polyct1 >>
+rect 9 59 11 61
+rect 29 39 31 41
+<< ndifct1 >>
+rect 27 19 29 21
+rect 7 9 9 11
+<< ptiect1 >>
+rect 24 5 26 7
+<< pdifct1 >>
+rect 7 89 9 91
+rect 31 89 33 91
+rect 19 79 21 81
+rect 19 69 21 71
+<< labels >>
+rlabel alu1 10 50 10 50 6 i0
+rlabel alu1 20 6 20 6 6 vss
+rlabel alu1 20 50 20 50 6 nq
+rlabel alu1 20 94 20 94 6 vdd
+rlabel alu1 30 55 30 55 6 i1
+<< end >>

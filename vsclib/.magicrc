@@ -1,0 +1,12 @@
+# path sys lists directories which are searched for tech, dstyle
+#          and cmap files
+#          eg pharosc.techm mos.OpenGL.dstyle and  mos.OpenGL.std.cmap
+#
+puts stdout "Processing ...magic/cells/vsclib/.magicrc file"
+path sys ". ../../../magic/etc $CAD_ROOT/magic/sys"
+tech load pharosc.tech -noprompt
+set GND vss
+set VSS vss
+set VDD vdd
+set Opts(callback) "grid 8 8 4 0"
+

@@ -1,0 +1,56 @@
+| units: 100 tech: scmos format: MIT
+n a0 vss a_72_18# 2 11 70 18
+p c01_inv c01 vdd 2 28 -26 -59
+p b0 a1b0inv vdd 2 13 -5 51
+n a1b0 ha01 res1_inv 2 14 11 -19
+p a0 vdd res0_inv 2 13 67 51
+n a0b1 vss a_n14_n20# 2 20 -15 -19
+p a0b1inv a0b1 vdd 2 18 14 44
+n b0 a_72_18# res0_inv 2 11 77 18
+p b1 a0b1inv vdd 2 13 34 51
+n res1_inv vss res1 2 13 41 -12
+p a0b1 vdd c01_inv 2 28 -16 -59
+p c01_inv res1_inv vdd 2 13 28 -47
+n a0b1inv a0b1 vss 2 9 14 20
+n a1 vss a_n11_18# 2 11 -12 18
+n c01_inv c01 vss 2 14 -26 -13
+n b0 a_n11_18# a1b0inv 2 11 -5 18
+p a1b0 c01_inv vdd 2 28 -6 -59
+p a1b0 vdd a_13_n57# 2 25 11 -56
+n a1b0 a_n14_n20# c01_inv 2 20 -8 -19
+n a0 vss a_29_18# 2 11 27 18
+p a1 vdd a1b0inv 2 13 -15 51
+p a0 vdd a0b1inv 2 13 24 51
+n c01_inv ha01 vss 2 10 31 -12
+p res1_inv vdd res1 2 25 41 -59
+p a0b1 a_13_n57# res1_inv 2 25 18 -56
+p a1b0inv a1b0 vdd 2 18 -25 44
+p res0_inv res0 vdd 2 18 57 44
+n b1 a_29_18# a0b1inv 2 11 34 18
+n a0b1 res1_inv ha01 2 14 21 -19
+p b0 res0_inv vdd 2 13 77 51
+n a1b0inv a1b0 vss 2 9 -25 20
+n res0_inv res0 vss 2 9 57 20
+R a_13_n57# 37
+R vdd 3902
+R res1 54
+R ha01 55
+R res1_inv 281
+R a_n14_n20# 27
+R c01 59
+R c01_inv 507
+R a_72_18# 15
+R a_29_18# 15
+R a_n11_18# 15
+R res0 37
+R res0_inv 199
+R a0b1 502
+R b1 194
+R a0 403
+R a0b1inv 199
+R a1b0 446
+R b0 404
+R a1 193
+R a1b0inv 199
+R w_n49_n71# 2843
+R vss 3918

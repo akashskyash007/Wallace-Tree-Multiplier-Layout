@@ -1,0 +1,769 @@
+| units: 5.5 tech: scmos format: MIT
+n X5 ad1n4 ad1fa3ha3sn 2 14 122 165
+p ad1fa3ozn ad1cin4 vdd 2 28 280 191
+p ad3cin2 a_751_90# vdd 2 25 756 90
+p ad3fa2ha2cn vdd ad3fa2ha2sn 2 13 650 99
+n ad2fa4ozn ad2cout4 vss 2 14 548 271
+p A1 a_13_22# vdd 2 13 30 55
+p X1 ad1fa1ha1sn a_127_47# 2 25 125 47
+n ad2fa4oa vss ad2fa4ozn 2 8 558 276
+n A3 a_321_278# a_330_273# 2 11 328 273
+p ad2fa4ha4s ad2fa4ha5cn vdd 2 28 517 231
+n ad2fa1ha1cn vss ad2n2 2 10 380 18
+n ad2fa2ozn ad2cin3 vss 2 14 548 127
+n ad1fa4ob ad1fa4ozn vss 2 8 300 274
+p ad1fa2ha3cn vdd a_191_83# 2 13 204 99
+p a_726_11# P3 vdd 2 25 726 50
+p ad3cin2 vdd ad3fa2ha3cn 2 28 774 87
+n B2 a_330_273# vss 2 11 335 273
+n ad2fa2oa vss ad2fa2ozn 2 8 558 132
+n A1 a_321_134# a_330_129# 2 11 328 129
+p A2 a_53_166# vdd 2 13 70 199
+p a_53_278# vdd X7 2 18 80 240
+n ad1cin4 ad1fa4ha5cn a_243_271# 2 20 241 271
+n ad1fa2ob ad1fa2ozn vss 2 8 300 130
+n B2 a_330_129# vss 2 11 335 129
+p ad2cout4 ad3fa4ha4cn vdd 2 28 695 231
+n ad2fa1ha1s a_511_15# vss 2 20 516 15
+n a_53_166# vss X5 2 9 80 168
+n ad1fa4ha4s a_243_271# vss 2 20 248 271
+n ad1cin2 ad1fa2ha3cn a_243_127# 2 20 241 127
+n ad1fa3ha3cn vss ad1n4 2 10 112 162
+p ad2s2 ad3fa2ha2sn a_662_90# 2 25 660 90
+p ad3fa3oa vdd a_830_191# 2 28 828 191
+n ad1fa2ha2s a_243_127# vss 2 20 248 127
+p ad2fa2ha3cn vdd ad2fa2oa 2 28 527 87
+p ad2cin3 vdd ad2fa3ha4cn 2 28 507 191
+p ad3fa3ob a_830_191# ad3fa3ozn 2 28 835 191
+p A3 vdd a_321_278# 2 13 328 238
+n ad2fa1ha2cn vss ad2fa1oa 2 14 527 15
+p a_726_83# P4 vdd 2 25 726 87
+n B2 a_321_166# a_330_166# 2 11 328 166
+n a_726_11# P3 vss 2 13 726 15
+p ad1fa2ha2s a_191_83# a_216_90# 2 25 214 90
+p X14 vdd ad3fa3ha3cn 2 28 685 191
+n A2 a_330_166# vss 2 11 335 166
+p ad1fa3ha3sn ad1fa3ha3s vdd 2 25 102 194
+n ad2fa4ha4cn vss ad2n5 2 10 380 278
+n A0 a_62_22# vss 2 11 67 22
+p X12 vdd ad3fa1ha1cn 2 28 685 47
+p ad1fa2ozn ad1cin3 vdd 2 28 280 87
+n ad2fa2ha2cn vss ad2n3 2 10 380 134
+n ad3fa1ozn ad3cin2 vss 2 14 815 21
+p ad2fa4ha4s a_459_227# a_484_234# 2 25 482 234
+n ad2fa3ozn ad2cin4 vss 2 14 548 165
+p ad1fa3ha3s a_191_155# a_216_191# 2 25 214 191
+p ad2cin4 a_484_234# vdd 2 25 489 234
+n vss a_726_11# a_738_18# 2 14 756 21
+p ad1fa4ha5cn vdd ad1fa4oa 2 28 259 231
+p ad1cin3 a_216_191# vdd 2 25 221 191
+n X8 ad2fa1ha1cn a_422_15# 2 20 420 15
+p vss vdd ad1fa1ha2cn 2 28 239 47
+n ad1fa3ob ad1fa3ozn vss 2 8 300 168
+n ad1fa3ha4cn vss ad1fa3oa 2 14 259 159
+p ad1fa4ha4sn ad1fa4ha4s vdd 2 25 102 231
+n ad3fa4ha5cn vss a_738_278# 2 10 736 278
+p ad2cout4 ad3fa4ha4sn a_662_234# 2 25 660 234
+p ad2fa1ha1cn vdd ad2fa1ob 2 28 438 47
+n ad1fa3ha3sn ad1fa3ha3s vss 2 13 102 159
+p X15 a_662_234# vdd 2 25 667 234
+p ad2fa1ha1cn vdd ad2fa1ha1sn 2 13 383 50
+n ad3fa2ha3cn vss a_738_134# 2 10 736 134
+p B0 a_13_134# vdd 2 13 30 94
+p ad1fa4ozn ad2b3 vdd 2 28 280 231
+p ad2fa3ha4cn vdd a_459_155# 2 13 472 194
+n ad2cin4 a_459_227# a_471_278# 2 14 489 271
+p ad1fa3ha3s ad1fa3ha4cn vdd 2 28 249 191
+p B1 a_53_278# vdd 2 13 70 238
+p a_13_22# vdd X0 2 18 40 48
+n X1 ad1n2 ad1fa1ha1sn 2 14 122 21
+n ad2cin2 a_459_83# a_471_134# 2 14 489 127
+p ad3fa3ha3cn vdd ad3fa3ha3sn 2 13 650 194
+p X0 a_127_47# vdd 2 25 132 47
+n X15 ad3fa4ha4sn ad3n5 2 14 667 271
+n X13 ad3fa2ha2sn ad3n3 2 14 667 127
+p X13 a_662_90# vdd 2 25 667 90
+p ad1fa4ha4cn vdd ad1fa4ha4sn 2 13 115 243
+p ad2fa1ha1s a_459_11# a_484_47# 2 25 482 47
+p a_589_134# vdd X13 2 18 616 96
+n a_589_22# vss X12 2 9 616 24
+p ad3fa4oa vdd a_830_231# 2 28 828 231
+p ad2cin4 vdd ad2fa4ha5cn 2 28 507 231
+p B2 vdd a_321_22# 2 13 328 55
+p ad3fa4ob a_830_231# ad3fa4ozn 2 28 835 231
+p ad1cin2 a_216_90# vdd 2 25 221 90
+p A0 a_53_22# vdd 2 13 70 55
+p B1 vdd a_53_166# 2 13 60 199
+n ad2fa4ha5cn vss ad2fa4oa 2 14 527 277
+n ad1fa3oa vss ad1fa3ozn 2 8 290 166
+n ad2cin3 a_459_155# a_471_162# 2 14 489 165
+p X15 vdd ad3fa4ha4cn 2 28 685 231
+n ad2fa2ha3cn vss ad2fa2oa 2 14 527 133
+p ad1fa2ha2cn vdd ad1fa2ha2sn 2 13 115 99
+p ad3fa1ha1sn ad3fa1ha2b vdd 2 25 637 50
+n ad3fa4ha4cn vss ad3fa4ob 2 14 705 277
+n ad2fa1ob ad2fa1ozn vss 2 8 568 24
+p X13 vdd ad3fa2ha2cn 2 28 685 87
+n X14 ad3fa3ha3sn ad3n4 2 14 667 165
+n ad3fa2ha2cn vss ad3fa2ob 2 14 705 133
+n ad1s1 a_422_15# vss 2 20 427 15
+p a_191_11# P1 vdd 2 25 191 50
+p ad1cin2 vdd ad1fa2ha3cn 2 28 239 87
+n ad2fa4ha4sn ad2fa4ha4s vss 2 13 370 278
+p ad2fa2ha2cn vdd ad2fa2ob 2 28 438 87
+p ad3fa2ha2sn ad3fa2ha3b vdd 2 25 637 87
+n ad2fa1ha1cn vss ad2fa1ob 2 14 438 15
+n ad3fa1ha1sn ad3fa1ha2b vss 2 13 637 15
+p ad3fa1ha2b ad3fa1ha2cn vdd 2 28 784 47
+n ad2fa2ha2sn ad2fa2ha2s vss 2 13 370 134
+n ad1fa4ozn ad2b3 vss 2 14 280 271
+p X3 ad1fa2ha2sn a_127_90# 2 25 125 90
+n ad1fa4oa vss ad1fa4ozn 2 8 290 276
+n A3 a_53_278# a_62_273# 2 11 60 273
+p ad1fa4ha4s ad1fa4ha5cn vdd 2 28 249 231
+n ad1fa2ozn ad1cin3 vss 2 14 280 127
+p a_191_83# ad1s1 vdd 2 25 191 87
+n B1 a_62_273# vss 2 11 67 273
+n a_191_11# P1 vss 2 13 191 15
+n ad1fa2oa vss ad1fa2ozn 2 8 290 132
+n A1 a_53_134# a_62_129# 2 11 60 129
+n a_726_227# P6 vss 2 13 726 278
+n B1 a_62_129# vss 2 11 67 129
+n X10 ad2fa3ha3cn a_422_159# 2 20 420 159
+n X12 ad3fa1ha1sn ad3n2 2 14 667 21
+n a_726_83# P4 vss 2 13 726 134
+n ad1s3 a_422_159# vss 2 20 427 159
+p X0 vdd ad1fa1ha1cn 2 28 150 47
+p a_13_166# vdd X4 2 18 40 192
+n ad1fa1ozn ad1cin2 vss 2 14 280 21
+p A1 vdd a_321_134# 2 13 328 94
+n ad2fa4ha4s a_471_278# a_459_227# 2 14 479 271
+p ad2fa1ozn ad2cin2 vdd 2 28 548 47
+p ad1cin3 vdd ad1fa3ha4cn 2 28 239 191
+n B2 a_321_22# a_330_22# 2 11 328 22
+n ad2fa1ha1s a_471_18# a_459_11# 2 14 479 21
+p A3 vdd a_53_278# 2 13 60 238
+p B1 a_53_134# vdd 2 13 70 94
+n vss a_191_11# a_203_18# 2 14 221 21
+n ad2fa2ha2s a_471_134# a_459_83# 2 14 479 127
+n B1 a_53_166# a_62_166# 2 11 60 166
+p vss a_484_47# vdd 2 25 489 47
+n ad3cin3 ad3fa3ha4cn a_778_159# 2 20 776 159
+n ad2cout4 ad3n5 ad3fa4ha4sn 2 14 657 271
+n A2 a_62_166# vss 2 11 67 166
+n ad1fa4ha4cn vss ad1n5 2 10 112 278
+p a_53_22# vdd X1 2 18 80 48
+n ad3fa3ha4b a_778_159# vss 2 20 783 159
+n ad2s2 ad3n3 ad3fa2ha2sn 2 14 657 127
+n ad1fa2ha2cn vss ad1n3 2 10 112 134
+p ad3fa1oa vdd a_830_47# 2 28 828 47
+p ad1fa4ha4s a_191_227# a_216_234# 2 25 214 234
+n ad1fa3ozn ad1cin4 vss 2 14 280 165
+p ad2fa3ha3cn vdd ad2fa3ob 2 28 438 191
+p ad1cin4 a_216_234# vdd 2 25 221 234
+p ad1fa3ha4cn vdd a_191_155# 2 13 204 194
+p ad1s1 ad2fa1ha1sn a_395_47# 2 25 393 47
+p ad3fa3ha4cn vdd ad3fa3oa 2 28 794 191
+n ad1cin4 a_191_227# a_203_278# 2 14 221 271
+n ad2fa3ha3s a_471_162# a_459_155# 2 14 479 165
+p ad2fa2ha3cn vdd a_459_83# 2 13 472 99
+n ad1cin2 a_191_83# a_203_134# 2 14 221 127
+p X2 a_127_90# vdd 2 25 132 90
+p ad3fa2ha3b ad3fa2ha3cn vdd 2 28 784 87
+p a_589_166# vdd X14 2 18 616 192
+n ad2s3 ad3n4 ad3fa3ha3sn 2 14 657 165
+p ad3fa3ozn ad3cin4 vdd 2 28 815 191
+n X11 ad2fa4ha4cn a_422_271# 2 20 420 271
+n ad2b3 a_422_271# vss 2 20 427 271
+n X9 ad2fa2ha2cn a_422_127# 2 20 420 127
+n A0 a_330_22# vss 2 11 335 22
+p ad1fa1ha1sn ad1fa1ha1s vdd 2 25 102 50
+p ad2fa2ha2s a_459_83# a_484_90# 2 25 482 90
+n ad1s2 a_422_127# vss 2 20 427 127
+p X2 vdd ad1fa2ha2cn 2 28 150 87
+p ad1cin4 vdd ad1fa4ha5cn 2 28 239 231
+n ad3fa4ob ad3fa4ozn vss 2 8 835 274
+p ad2fa2ozn ad2cin3 vdd 2 28 548 87
+n ad2fa3ha4cn vss a_471_162# 2 10 469 162
+p ad2s1 ad3fa1ha1cn vdd 2 28 695 47
+n ad1fa4ha5cn vss ad1fa4oa 2 14 259 277
+n ad3cin4 ad3fa4ha5cn a_778_271# 2 20 776 271
+n ad3fa2ob ad3fa2ozn vss 2 8 835 130
+n ad1cin3 a_191_155# a_203_162# 2 14 221 165
+n ad3fa4ha5b a_778_271# vss 2 20 783 271
+n ad1fa2ha3cn vss ad1fa2oa 2 14 259 133
+p vss vdd ad2fa1ha2cn 2 28 507 47
+p ad3fa1ob a_830_47# ad3fa1ozn 2 28 835 47
+n ad3cin2 ad3fa2ha3cn a_778_127# 2 20 776 127
+n ad3fa3ha3cn vss ad3n4 2 10 647 162
+p ad1fa2ha2sn ad1fa2ha2s vdd 2 25 102 87
+p ad1fa1ha1s ad1fa1ha2cn vdd 2 28 249 47
+n ad1fa1ha1sn ad1fa1ha1s vss 2 13 102 15
+n ad3fa2ha3b a_778_127# vss 2 20 783 127
+p ad3fa2oa vdd a_830_87# 2 28 828 87
+p a_459_155# ad2s2 vdd 2 25 459 194
+p ad1s3 ad2fa3ha3sn a_395_191# 2 25 393 191
+p ad2fa4ha4cn vdd ad2fa4ob 2 28 438 231
+p X10 a_395_191# vdd 2 25 400 191
+n ad3fa1oa vss ad3fa1ozn 2 8 825 22
+n ad2fa3ha3cn vss ad2fa3ob 2 14 438 159
+p ad3fa3ha3sn ad3fa3ha4b vdd 2 25 637 194
+n ad1fa4ha4sn ad1fa4ha4s vss 2 13 102 278
+n ad1s1 ad2n2 ad2fa1ha1sn 2 14 390 21
+n X0 ad1fa1ha1sn ad1n2 2 14 132 21
+n ad1fa2ha2sn ad1fa2ha2s vss 2 13 102 134
+p a_459_227# ad2s3 vdd 2 25 459 231
+p X8 a_395_47# vdd 2 25 400 47
+p ad3fa3ha4b a_726_155# a_751_191# 2 25 749 191
+n a_459_155# ad2s2 vss 2 13 459 159
+p ad1s3 ad2fa3ha3cn vdd 2 28 428 191
+p ad3cin3 a_751_191# vdd 2 25 756 191
+p ad3fa4ha5cn vdd ad3fa4oa 2 28 794 231
+n ad3fa3ob ad3fa3ozn vss 2 8 835 168
+n ad3fa3ha4cn vss ad3fa3oa 2 14 794 159
+p ad3fa4ha4sn ad3fa4ha5b vdd 2 25 637 231
+n ad3fa3ha3sn ad3fa3ha4b vss 2 13 637 159
+n X4 ad1fa3ha3cn a_154_159# 2 20 152 159
+n ad3fa1ha2cn vss a_738_18# 2 10 736 18
+n X5 a_154_159# vss 2 20 159 159
+p ad3fa4ozn P7 vdd 2 28 815 231
+p ad1fa1oa vdd a_295_47# 2 28 293 47
+p ad3fa3ha4b ad3fa3ha4cn vdd 2 28 784 191
+n ad1fa4ha4s a_203_278# a_191_227# 2 14 211 271
+p B3 vdd a_589_22# 2 13 596 55
+p a_13_134# vdd X2 2 18 40 96
+p ad2cin2 a_484_90# vdd 2 25 489 90
+n ad1fa2ha2s a_203_134# a_191_83# 2 14 211 127
+p A0 a_321_22# vdd 2 13 338 55
+n a_13_22# vss X0 2 9 40 24
+p ad2fa2ha2cn vdd ad2fa2ha2sn 2 13 383 99
+p ad2fa4ha5cn vdd a_459_227# 2 13 472 243
+p ad2s2 ad3fa2ha2cn vdd 2 28 695 87
+p ad1fa3ha3cn vdd ad1fa3ob 2 28 170 191
+p ad3fa4ha4cn vdd ad3fa4ha4sn 2 13 650 243
+p a_459_11# P2 vdd 2 25 459 50
+p ad3fa2ob a_830_87# ad3fa2ozn 2 28 835 87
+p ad2cin2 vdd ad2fa2ha3cn 2 28 507 87
+p ad1fa2ha2s ad1fa2ha3cn vdd 2 28 249 87
+n a_13_278# vss P0 2 9 40 273
+n vss ad3fa1ha2cn a_778_15# 2 20 776 15
+p ad3fa1ha2cn vdd ad3fa1oa 2 28 794 47
+p ad1s2 ad2fa2ha2sn a_395_90# 2 25 393 90
+n a_13_134# vss X2 2 9 40 129
+n ad3fa3oa vss ad3fa3ozn 2 8 825 166
+n ad1fa3ha3s a_203_162# a_191_155# 2 14 211 165
+p ad3fa1ha2cn vdd a_726_11# 2 13 739 50
+p a_459_83# ad2s1 vdd 2 25 459 87
+n a_459_11# P2 vss 2 13 459 15
+p a_321_166# vdd X10 2 18 348 192
+p X8 vdd ad2fa1ha1cn 2 28 418 47
+p ad2b3 ad2fa4ha4cn vdd 2 28 428 231
+n ad2fa1ozn ad2cin2 vss 2 14 548 21
+p X1 ad1fa1ha1cn vdd 2 28 160 47
+p A1 vdd a_589_134# 2 13 596 94
+n B3 a_589_22# a_598_22# 2 11 596 22
+p ad2fa3oa vdd a_563_191# 2 28 561 191
+n vss ad1fa4ha4cn a_154_271# 2 20 152 271
+p B2 a_321_134# vdd 2 13 338 94
+n vss a_459_11# a_471_18# 2 14 489 21
+p ad2fa3ob a_563_191# ad2fa3ozn 2 28 568 191
+n X7 a_154_271# vss 2 20 159 271
+n X2 ad1fa2ha2cn a_154_127# 2 20 152 127
+p ad1fa1ob a_295_47# ad1fa1ozn 2 28 300 47
+n ad3fa4ozn P7 vss 2 14 815 271
+p a_321_22# vdd X8 2 18 348 48
+n ad3fa4oa vss ad3fa4ozn 2 8 825 276
+n X3 a_154_127# vss 2 20 159 127
+p X10 vdd ad2fa3ha3cn 2 28 418 191
+p ad1fa2oa vdd a_295_87# 2 28 293 87
+p ad3fa4ha5b ad3fa4ha5cn vdd 2 28 784 231
+n ad3fa2ozn ad3cin3 vss 2 14 815 127
+n ad1fa3ha4cn vss a_203_162# 2 10 201 162
+n ad3fa2oa vss ad3fa2ozn 2 8 825 132
+n ad1fa1oa vss ad1fa1ozn 2 8 290 22
+n a_589_278# vss X15 2 9 616 273
+p A3 a_13_166# vdd 2 13 30 199
+p a_13_278# vdd P0 2 18 40 240
+n a_589_134# vss X13 2 9 616 129
+p ad3cin3 vdd ad3fa3ha4cn 2 28 774 191
+p a_191_155# ad1s2 vdd 2 25 191 194
+n ad2fa4ha5cn vss a_471_278# 2 10 469 278
+p ad2b3 ad2fa4ha4sn a_395_234# 2 25 393 234
+p X5 ad1fa3ha3sn a_127_191# 2 25 125 191
+n a_13_166# vss X4 2 9 40 168
+p ad1fa4ha4cn vdd ad1fa4ob 2 28 170 231
+p X11 a_395_234# vdd 2 25 400 234
+n ad3fa1ha1cn vss ad3n2 2 10 647 18
+p X4 a_127_191# vdd 2 25 132 191
+n ad2fa2ha3cn vss a_471_134# 2 10 469 134
+n ad1fa3ha3cn vss ad1fa3ob 2 14 170 159
+n ad3fa4ha4cn vss ad3n5 2 10 647 278
+p a_53_134# vdd X3 2 18 80 96
+n ad3fa1ha2b a_778_15# vss 2 20 783 15
+n ad3fa2ha2cn vss ad3n3 2 10 647 134
+n a_53_22# vss X1 2 9 80 24
+n ad1fa1ha2cn vss a_203_18# 2 10 201 18
+p X9 a_395_90# vdd 2 25 400 90
+p ad2fa3ha3cn vdd ad2fa3ha3sn 2 13 383 194
+p a_191_227# ad1s3 vdd 2 25 191 231
+p ad3fa4ha5b a_726_227# a_751_234# 2 25 749 234
+n ad3fa3ozn ad3cin4 vss 2 14 815 165
+n a_191_155# ad1s2 vss 2 13 191 159
+n X11 ad2fa4ha4sn ad2n5 2 14 400 271
+p ad3cin4 a_751_234# vdd 2 25 756 234
+p ad3fa2ha3cn vdd ad3fa2oa 2 28 794 87
+p X5 ad1fa3ha3cn vdd 2 28 160 191
+n ad3fa1ha2cn vss ad3fa1oa 2 14 794 15
+n X9 ad2fa2ha2sn ad2n3 2 14 400 127
+p ad3fa3ha4cn vdd a_726_155# 2 13 739 194
+p ad2fa1ha1sn ad2fa1ha1s vdd 2 25 370 50
+n A0 a_598_22# vss 2 11 603 22
+p X9 vdd ad2fa2ha2cn 2 28 418 87
+n ad3cin4 a_726_227# a_738_278# 2 14 756 271
+p X3 ad1fa2ha2cn vdd 2 28 160 87
+p ad2fa4oa vdd a_563_231# 2 28 561 231
+n ad3cin2 a_726_83# a_738_134# 2 14 756 127
+n X12 ad3fa1ha1cn a_689_15# 2 20 687 15
+p ad2fa4ob a_563_231# ad2fa4ozn 2 28 568 231
+p ad3fa1ha1cn vdd ad3fa1ob 2 28 705 47
+p A2 a_589_166# vdd 2 13 606 199
+p ad1fa2ob a_295_87# ad1fa2ozn 2 28 300 87
+p a_589_278# vdd X15 2 18 616 240
+p B0 a_13_278# vdd 2 13 30 238
+p ad3fa1ha1cn vdd ad3fa1ha1sn 2 13 650 50
+n a_589_166# vss X14 2 9 616 168
+p X11 vdd ad2fa4ha4cn 2 28 418 231
+p ad2fa2ha2sn ad2fa2ha2s vdd 2 25 370 87
+p ad1fa4ha5cn vdd a_191_227# 2 13 204 243
+n ad2fa1ha1sn ad2fa1ha1s vss 2 13 370 15
+p ad2fa1ha1s ad2fa1ha2cn vdd 2 28 517 47
+n vss ad1fa1ha2cn a_243_15# 2 20 241 15
+n ad2fa4ha4cn vss ad2fa4ob 2 14 438 277
+p ad1fa1ha2cn vdd ad1fa1oa 2 28 259 47
+n X10 ad2fa3ha3sn ad2n4 2 14 400 165
+p ad1fa1ha2cn vdd a_191_11# 2 13 204 50
+n ad2fa2ha2cn vss ad2fa2ob 2 14 438 133
+p ad3cin4 vdd ad3fa4ha5cn 2 28 774 231
+n X8 ad2fa1ha1sn ad2n2 2 14 400 21
+n ad3fa4ha5cn vss ad3fa4oa 2 14 794 277
+n ad3cin3 a_726_155# a_738_162# 2 14 756 165
+n ad3fa2ha3cn vss ad3fa2oa 2 14 794 133
+p a_53_166# vdd X5 2 18 80 192
+p B0 vdd a_13_166# 2 13 20 199
+p ad3fa1ha2b a_726_11# a_751_47# 2 25 749 47
+n a_459_227# ad2s3 vss 2 13 459 278
+p X7 ad1fa4ha4cn vdd 2 28 160 231
+n a_459_83# ad2s1 vss 2 13 459 134
+p ad2fa1oa vdd a_563_47# 2 28 561 47
+n ad3fa4ha4sn ad3fa4ha5b vss 2 13 637 278
+p ad1fa3oa vdd a_295_191# 2 28 293 191
+p B3 a_589_278# vdd 2 13 606 238
+n ad3fa2ha2sn ad3fa2ha3b vss 2 13 637 134
+p ad1fa3ob a_295_191# ad1fa3ozn 2 28 300 191
+p A0 a_589_22# vdd 2 13 606 55
+n ad3fa1ob ad3fa1ozn vss 2 8 835 24
+p B0 vdd a_13_22# 2 13 20 55
+n ad2cin3 ad2fa3ha4cn a_511_159# 2 20 509 159
+n ad2b3 ad2n5 ad2fa4ha4sn 2 14 390 271
+p X4 vdd ad1fa3ha3cn 2 28 150 191
+n ad2s1 a_689_15# vss 2 20 694 15
+n ad2fa3ha3s a_511_159# vss 2 20 516 159
+n ad1fa1ha1cn vss ad1n2 2 10 112 18
+n ad1s2 ad2n3 ad2fa2ha2sn 2 14 390 127
+n X14 ad3fa3ha3cn a_689_159# 2 20 687 159
+p ad3fa2ha2cn vdd ad3fa2ob 2 28 705 87
+n A0 a_13_278# a_22_273# 2 11 20 273
+n a_321_278# vss X11 2 9 348 273
+n ad3fa1ha1cn vss ad3fa1ob 2 14 705 15
+n ad2s3 a_689_159# vss 2 20 694 159
+n B0 a_22_273# vss 2 11 27 273
+n ad1fa1ha1s a_243_15# vss 2 20 248 15
+n A2 a_13_134# a_22_129# 2 11 20 129
+n ad3fa4ha5b a_738_278# a_726_227# 2 14 746 271
+n a_321_134# vss X9 2 9 348 129
+n ad1fa4ha5cn vss a_203_278# 2 10 201 278
+p X7 ad1fa4ha4sn a_127_234# 2 25 125 234
+p ad2fa2ha2s ad2fa2ha3cn vdd 2 28 517 87
+n B0 a_22_129# vss 2 11 27 129
+p vss a_127_234# vdd 2 25 132 234
+n ad3fa2ha3b a_738_134# a_726_83# 2 14 746 127
+p ad1fa2ha3cn vdd ad1fa2oa 2 28 259 87
+n ad1fa1ha2cn vss ad1fa1oa 2 14 259 15
+n ad1fa2ha3cn vss a_203_134# 2 10 201 134
+p B3 vdd a_589_166# 2 13 596 199
+p A0 vdd a_13_278# 2 13 20 238
+p ad2fa3ha4cn vdd ad2fa3oa 2 28 527 191
+n B0 a_13_166# a_22_166# 2 11 20 166
+p ad1fa3ha3cn vdd ad1fa3ha3sn 2 13 115 194
+n A3 a_22_166# vss 2 11 27 166
+p ad3fa3ha3cn vdd ad3fa3ob 2 28 705 191
+n vss ad1fa4ha4sn ad1n5 2 14 132 271
+p ad3fa1ozn ad3cin2 vdd 2 28 815 47
+n ad3fa1ha2b a_738_18# a_726_11# 2 14 746 21
+n ad1s3 ad2n4 ad2fa3ha3sn 2 14 390 165
+p ad2fa3ozn ad2cin4 vdd 2 28 548 191
+p ad1s1 ad2fa1ha1cn vdd 2 28 428 47
+p vss a_751_47# vdd 2 25 756 47
+n X2 ad1fa2ha2sn ad1n3 2 14 132 127
+n X0 ad1fa1ha1cn a_154_15# 2 20 152 15
+p B3 a_589_134# vdd 2 13 606 94
+p ad1fa1ha1cn vdd ad1fa1ob 2 28 170 47
+p A2 vdd a_13_134# 2 13 20 94
+p ad2fa1ob a_563_47# ad2fa1ozn 2 28 568 47
+n B0 a_13_22# a_22_22# 2 11 20 22
+p ad1fa1ha1cn vdd ad1fa1ha1sn 2 13 115 50
+p a_589_22# vdd X12 2 18 616 48
+n ad3fa3ha4b a_738_162# a_726_155# 2 14 746 165
+p ad2fa2oa vdd a_563_87# 2 28 561 87
+p ad1fa4oa vdd a_295_231# 2 28 293 231
+n A3 a_589_278# a_598_273# 2 11 596 273
+n ad2fa4ob ad2fa4ozn vss 2 8 568 274
+p ad1fa4ob a_295_231# ad1fa4ozn 2 28 300 231
+n B3 a_598_273# vss 2 11 603 273
+n ad2fa1oa vss ad2fa1ozn 2 8 558 22
+n A1 a_589_134# a_598_129# 2 11 596 129
+p A2 a_321_166# vdd 2 13 338 199
+p a_321_278# vdd X11 2 18 348 240
+n ad2cin4 ad2fa4ha5cn a_511_271# 2 20 509 271
+n ad2fa2ob ad2fa2ozn vss 2 8 568 130
+n B3 a_598_129# vss 2 11 603 129
+n a_321_166# vss X10 2 9 348 168
+p vss vdd ad1fa4ha4cn 2 28 150 231
+n ad2fa4ha4s a_511_271# vss 2 20 516 271
+n ad2cin2 ad2fa2ha3cn a_511_127# 2 20 509 127
+n ad2fa3ha3cn vss ad2n4 2 10 380 162
+n ad1fa4ha4cn vss ad1fa4ob 2 14 170 277
+p ad2s1 ad3fa1ha1sn a_662_47# 2 25 660 47
+n X15 ad3fa4ha4cn a_689_271# 2 20 687 271
+n ad2fa2ha2s a_511_127# vss 2 20 516 127
+n X4 ad1fa3ha3sn ad1n4 2 14 132 165
+p ad3fa2ha3cn vdd a_726_83# 2 13 739 99
+p A3 vdd a_589_278# 2 13 596 238
+n ad2cout4 a_689_271# vss 2 20 694 271
+n X13 ad3fa2ha2cn a_689_127# 2 20 687 127
+n ad1fa2ha2cn vss ad1fa2ob 2 14 170 133
+n B3 a_589_166# a_598_166# 2 11 596 166
+n ad2s2 a_689_127# vss 2 20 694 127
+n A2 a_598_166# vss 2 11 603 166
+p ad1fa1ha1s a_191_11# a_216_47# 2 25 214 47
+p a_321_134# vdd X9 2 18 348 96
+p ad2fa3ha3sn ad2fa3ha3s vdd 2 25 370 194
+n a_321_22# vss X8 2 9 348 24
+n ad2fa1ha2cn vss a_471_18# 2 10 469 18
+n ad3fa3ha4cn vss a_738_162# 2 10 736 162
+p B1 vdd a_53_22# 2 13 60 55
+p ad2fa3ha3s a_459_155# a_484_191# 2 25 482 191
+p ad2fa4ha5cn vdd ad2fa4oa 2 28 527 231
+p ad2cin3 a_484_191# vdd 2 25 489 191
+n ad2fa3ob ad2fa3ozn vss 2 8 568 168
+n ad2fa3ha4cn vss ad2fa3oa 2 14 527 159
+p ad2fa4ha4sn ad2fa4ha4s vdd 2 25 370 231
+p ad3fa2ha3b a_726_83# a_751_90# 2 25 749 90
+p a_726_155# P5 vdd 2 25 726 194
+n ad1fa1ob ad1fa1ozn vss 2 8 300 24
+p ad2s3 ad3fa3ha3sn a_662_191# 2 25 660 191
+n a_191_227# ad1s3 vss 2 13 191 278
+n ad2fa3ha3sn ad2fa3ha3s vss 2 13 370 159
+p ad3fa4ha4cn vdd ad3fa4ob 2 28 705 231
+p ad3fa2ozn ad3cin3 vdd 2 28 815 87
+p X14 a_662_191# vdd 2 25 667 191
+n X1 a_154_15# vss 2 20 159 15
+n a_191_83# ad1s1 vss 2 13 191 134
+n ad3fa3ha3cn vss ad3fa3ob 2 14 705 159
+p ad2fa4ozn ad2cout4 vdd 2 28 548 231
+p ad1s2 ad2fa2ha2cn vdd 2 28 428 87
+p ad2fa3ha3s ad2fa3ha4cn vdd 2 28 517 191
+p B2 a_321_278# vdd 2 13 338 238
+n A1 a_22_22# vss 2 11 27 22
+p ad1fa2ha2cn vdd ad1fa2ob 2 28 170 87
+p vss vdd ad3fa1ha2cn 2 28 774 47
+p a_726_227# P6 vdd 2 25 726 231
+n ad1fa1ha1cn vss ad1fa1ob 2 14 170 15
+p ad2fa2ob a_563_87# ad2fa2ozn 2 28 568 87
+n a_726_155# P5 vss 2 13 726 159
+p ad2s3 ad3fa3ha3cn vdd 2 28 695 191
+n ad1cin3 ad1fa3ha4cn a_243_159# 2 20 241 159
+n X7 ad1n5 ad1fa4ha4sn 2 14 122 271
+n ad1fa3ha3s a_243_159# vss 2 20 248 159
+n X3 ad1n3 ad1fa2ha2sn 2 14 122 127
+n vss ad2fa1ha2cn a_511_15# 2 20 509 15
+p ad2fa1ha2cn vdd ad2fa1oa 2 28 527 47
+n ad2s1 ad3n2 ad3fa1ha1sn 2 14 657 21
+n a_53_278# vss X7 2 9 80 273
+p ad2fa1ha2cn vdd a_459_11# 2 13 472 50
+p ad2fa4ha4cn vdd ad2fa4ha4sn 2 13 383 243
+p X12 a_662_47# vdd 2 25 667 47
+n a_53_134# vss X3 2 9 80 129
+p A1 vdd a_53_134# 2 13 60 94
+p ad1fa1ozn ad1cin2 vdd 2 28 280 47
+n ad1fa1ha1s a_203_18# a_191_11# 2 14 211 21
+n B1 a_53_22# a_62_22# 2 11 60 22
+p vss a_216_47# vdd 2 25 221 47
+n ad2fa3oa vss ad2fa3ozn 2 8 558 166
+p B2 vdd a_321_166# 2 13 328 199
+p ad1fa3ha4cn vdd ad1fa3oa 2 28 259 191
+p ad3fa4ha5cn vdd a_726_227# 2 13 739 243
+C vss A3 2.59
+C vss A1 2.65
+R a_778_15# 27
+R a_738_18# 55
+R a_830_47# 41
+R ad3fa1oa 274
+R a_751_47# 37
+R a_689_15# 27
+R ad3n2 55
+R a_598_22# 15
+R ad3fa1ozn 277
+R ad3fa1ha2cn 507
+R P3 56
+R ad3fa1ob 259
+R a_662_47# 37
+R a_726_11# 281
+R ad3fa1ha1cn 507
+R ad3fa1ha2b 520
+R X12 446
+R a_511_15# 27
+R a_471_18# 55
+R a_589_22# 199
+R ad3fa1ha1sn 281
+R a_563_47# 41
+R ad2fa1oa 274
+R a_484_47# 37
+R a_422_15# 27
+R ad2n2 55
+R a_330_22# 15
+R ad2fa1ozn 277
+R ad2fa1ha2cn 507
+R P2 56
+R ad2fa1ob 259
+R a_395_47# 37
+R a_459_11# 281
+R ad2fa1ha1cn 507
+R ad2fa1ha1s 520
+R X8 446
+R a_243_15# 27
+R a_203_18# 55
+R a_321_22# 199
+R ad2fa1ha1sn 281
+R a_295_47# 41
+R ad1fa1oa 274
+R a_216_47# 37
+R a_154_15# 27
+R ad1n2 55
+R a_62_22# 15
+R a_22_22# 15
+R ad1fa1ozn 277
+R ad1fa1ha2cn 507
+R P1 56
+R ad1fa1ob 259
+R a_127_47# 37
+R a_191_11# 281
+R ad1fa1ha1cn 507
+R ad1fa1ha1s 520
+R X1 502
+R a_53_22# 199
+R X0 447
+R a_13_22# 199
+R ad1fa1ha1sn 281
+R a_830_87# 41
+R a_751_90# 37
+R ad3fa2ozn 277
+R ad3fa2oa 274
+R a_778_127# 27
+R a_662_90# 37
+R a_738_134# 55
+R ad3cin2 464
+R ad3fa2ha3cn 507
+R P4 56
+R ad3fa2ob 259
+R a_689_127# 27
+R a_563_87# 41
+R a_484_90# 37
+R ad3n3 55
+R a_726_83# 281
+R ad3fa2ha2cn 507
+R X13 446
+R ad3fa2ha3b 520
+R a_598_129# 15
+R a_589_134# 199
+R ad3fa2ha2sn 281
+R ad2fa2ozn 277
+R ad2fa2oa 274
+R a_511_127# 27
+R a_395_90# 37
+R a_471_134# 55
+R ad2cin2 464
+R ad2fa2ha3cn 507
+R ad2s1 521
+R ad2fa2ob 259
+R a_422_127# 27
+R a_295_87# 41
+R a_216_90# 37
+R ad2n3 55
+R a_459_83# 281
+R ad2fa2ha2cn 507
+R X9 446
+R ad2fa2ha2s 520
+R a_330_129# 15
+R a_321_134# 199
+R ad2fa2ha2sn 281
+R ad1fa2ozn 277
+R ad1fa2oa 274
+R a_243_127# 27
+R a_127_90# 37
+R a_203_134# 55
+R ad1cin2 464
+R ad1fa2ha3cn 507
+R ad1s1 522
+R ad1fa2ob 259
+R a_154_127# 27
+R ad1n3 55
+R a_191_83# 281
+R ad1fa2ha2cn 507
+R X3 502
+R ad1fa2ha2s 520
+R a_62_129# 15
+R X2 447
+R a_53_134# 199
+R ad1fa2ha2sn 281
+R A1 846
+R a_22_129# 15
+R a_13_134# 199
+R a_778_159# 27
+R a_738_162# 55
+R a_830_191# 41
+R ad3fa3oa 274
+R a_751_191# 37
+R a_689_159# 27
+R ad3n4 55
+R a_598_166# 15
+R ad3fa3ozn 277
+R ad3fa3ha4cn 507
+R ad3cin3 465
+R P5 56
+R ad3fa3ob 259
+R a_662_191# 37
+R a_726_155# 281
+R ad3fa3ha3cn 507
+R ad3fa3ha4b 520
+R X14 446
+R a_511_159# 27
+R a_471_162# 55
+R a_589_166# 199
+R ad3fa3ha3sn 281
+R a_563_191# 41
+R ad2fa3oa 274
+R a_484_191# 37
+R a_422_159# 27
+R ad2n4 55
+R a_330_166# 15
+R ad2fa3ozn 277
+R ad2fa3ha4cn 507
+R ad2cin3 465
+R ad2s2 523
+R ad2fa3ob 259
+R a_395_191# 37
+R a_459_155# 281
+R ad2fa3ha3cn 507
+R ad2fa3ha3s 520
+R X10 446
+R a_243_159# 27
+R a_203_162# 55
+R a_321_166# 199
+R ad2fa3ha3sn 281
+R a_295_191# 41
+R ad1fa3oa 274
+R a_216_191# 37
+R a_154_159# 27
+R ad1n4 55
+R a_62_166# 15
+R a_22_166# 15
+R ad1fa3ozn 277
+R ad1fa3ha4cn 507
+R ad1cin3 465
+R ad1s2 523
+R ad1fa3ob 259
+R a_127_191# 37
+R a_191_155# 281
+R ad1fa3ha3cn 507
+R ad1fa3ha3s 520
+R X5 502
+R a_53_166# 199
+R X4 447
+R A2 841
+R a_13_166# 199
+R ad1fa3ha3sn 281
+R a_830_231# 41
+R a_751_234# 37
+R P7 53
+R ad3fa4ozn 277
+R ad3fa4oa 274
+R a_778_271# 27
+R a_662_234# 37
+R a_738_278# 55
+R ad3cin4 464
+R ad3fa4ha5cn 507
+R P6 56
+R ad3fa4ob 259
+R a_689_271# 27
+R a_563_231# 41
+R a_484_234# 37
+R ad3n5 55
+R a_726_227# 281
+R ad3fa4ha4cn 507
+R X15 446
+R ad3fa4ha5b 520
+R a_598_273# 15
+R a_589_278# 199
+R ad3fa4ha4sn 281
+R B3 825
+R ad2cout4 519
+R ad2fa4ozn 277
+R ad2fa4oa 274
+R a_511_271# 27
+R a_395_234# 37
+R a_471_278# 55
+R ad2cin4 464
+R ad2fa4ha5cn 507
+R ad2s3 522
+R ad2fa4ob 259
+R a_422_271# 27
+R a_295_231# 41
+R a_216_234# 37
+R ad2n5 55
+R a_459_227# 281
+R ad2fa4ha4cn 507
+R X11 446
+R ad2fa4ha4s 520
+R a_330_273# 15
+R a_321_278# 199
+R ad2fa4ha4sn 281
+R B2 825
+R ad2b3 519
+R ad1fa4ozn 277
+R ad1fa4oa 274
+R a_243_271# 27
+R a_127_234# 37
+R a_203_278# 55
+R ad1cin4 464
+R ad1fa4ha5cn 507
+R ad1s3 522
+R ad1fa4ob 259
+R a_154_271# 27
+R ad1n5 55
+R a_191_227# 281
+R ad1fa4ha4cn 507
+R X7 502
+R ad1fa4ha4s 520
+R a_62_273# 15
+R P0 37
+R a_53_278# 199
+R ad1fa4ha4sn 281
+R B1 825
+R A3 844
+R a_22_273# 15
+R a_13_278# 199
+R B0 823
+R A0 837
+R vdd 32395
+R vss 76479

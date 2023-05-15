@@ -1,0 +1,41 @@
+| units: 5.5 tech: scmos format: MIT
+n outand1 tempor vss 2 6 -10 25
+p tempand1 outand1 vdd 2 18 14 44
+p tempor outor vdd 2 18 -30 43
+p b binv vdd 2 18 58 43
+p a ainv vdd 2 18 58 -51
+n z vss tempor 2 6 -20 25
+n a ainv vss 2 9 58 -21
+n tempand1 outand1 vss 2 9 14 20
+p b tempand2 vdd 2 13 34 -54
+n ainv vss a_29_n19# 2 11 27 -19
+n b a_29_n19# tempand2 2 11 34 -19
+n tempor outor vss 2 9 -30 22
+n b binv vss 2 9 58 22
+p ainv vdd tempand2 2 13 24 -54
+p a vdd tempand1 2 13 24 51
+p outor vdd out 2 18 -9 -51
+p tempand2 z vdd 2 18 14 -52
+n tempand2 z vss 2 9 14 -19
+n outor vss out 2 9 -9 -21
+p outand1 a_n15_50# tempor 2 21 -10 50
+p z vdd a_n15_50# 2 21 -17 50
+p binv tempand1 vdd 2 13 34 51
+n a vss a_29_18# 2 11 27 18
+n binv a_29_18# tempand1 2 11 34 18
+R a_29_n19# 15
+R out 37
+R ainv 230
+R tempand2 199
+R a_29_18# 15
+R b 378
+R binv 230
+R a 378
+R tempand1 199
+R a_n15_50# 31
+R outor 206
+R tempor 209
+R outand1 227
+R z 228
+R vss 3230
+R vdd 9684

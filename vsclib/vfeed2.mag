@@ -1,0 +1,36 @@
+magic
+tech scmos
+timestamp 1199203357
+<< ab >>
+rect 0 0 16 72
+<< nwell >>
+rect -5 32 21 77
+<< pwell >>
+rect -5 -5 21 32
+<< alu1 >>
+rect -2 67 18 72
+rect -2 65 7 67
+rect 9 65 18 67
+rect -2 64 18 65
+rect -2 7 18 8
+rect -2 5 7 7
+rect 9 5 18 7
+rect -2 0 18 5
+<< ptie >>
+rect 5 7 11 26
+rect 5 5 7 7
+rect 9 5 11 7
+rect 5 3 11 5
+<< ntie >>
+rect 5 67 11 69
+rect 5 65 7 67
+rect 9 65 11 67
+rect 5 38 11 65
+<< ntiect1 >>
+rect 7 65 9 67
+<< ptiect1 >>
+rect 7 5 9 7
+<< labels >>
+rlabel alu1 8 4 8 4 6 vss
+rlabel alu1 8 68 8 68 6 vdd
+<< end >>

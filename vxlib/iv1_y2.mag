@@ -1,0 +1,120 @@
+magic
+tech scmos
+timestamp 1199469662
+<< ab >>
+rect 0 0 30 100
+<< nwell >>
+rect -2 48 32 104
+<< pwell >>
+rect -2 -4 32 48
+<< poly >>
+rect 15 93 17 98
+rect 15 50 17 57
+rect 15 48 23 50
+rect 15 46 19 48
+rect 21 46 23 48
+rect 15 44 23 46
+rect 15 33 17 44
+rect 15 12 17 17
+<< ndif >>
+rect 7 31 15 33
+rect 7 29 9 31
+rect 11 29 15 31
+rect 7 23 15 29
+rect 7 21 9 23
+rect 11 21 15 23
+rect 7 19 15 21
+rect 10 17 15 19
+rect 17 31 26 33
+rect 17 29 21 31
+rect 23 29 26 31
+rect 17 21 26 29
+rect 17 19 21 21
+rect 23 19 26 21
+rect 17 17 26 19
+<< pdif >>
+rect 10 71 15 93
+rect 7 69 15 71
+rect 7 67 9 69
+rect 11 67 15 69
+rect 7 61 15 67
+rect 7 59 9 61
+rect 11 59 15 61
+rect 7 57 15 59
+rect 17 91 26 93
+rect 17 89 21 91
+rect 23 89 26 91
+rect 17 81 26 89
+rect 17 79 21 81
+rect 23 79 26 81
+rect 17 57 26 79
+<< alu1 >>
+rect -2 91 32 100
+rect -2 89 21 91
+rect 23 89 32 91
+rect -2 88 32 89
+rect 20 81 24 88
+rect 20 79 21 81
+rect 23 79 24 81
+rect 20 77 24 79
+rect 8 69 22 73
+rect 8 67 9 69
+rect 11 67 22 69
+rect 8 61 12 67
+rect 8 59 9 61
+rect 11 59 12 61
+rect 8 31 12 59
+rect 18 48 22 63
+rect 18 46 19 48
+rect 21 46 22 48
+rect 18 37 22 46
+rect 8 29 9 31
+rect 11 29 12 31
+rect 8 23 12 29
+rect 8 21 9 23
+rect 11 21 12 23
+rect 8 17 12 21
+rect 20 31 24 33
+rect 20 29 21 31
+rect 23 29 24 31
+rect 20 21 24 29
+rect 20 19 21 21
+rect 23 19 24 21
+rect 20 12 24 19
+rect -2 7 32 12
+rect -2 5 9 7
+rect 11 5 19 7
+rect 21 5 32 7
+rect -2 0 32 5
+<< ptie >>
+rect 7 7 23 9
+rect 7 5 9 7
+rect 11 5 19 7
+rect 21 5 23 7
+rect 7 3 23 5
+<< nmos >>
+rect 15 17 17 33
+<< pmos >>
+rect 15 57 17 93
+<< polyct1 >>
+rect 19 46 21 48
+<< ndifct1 >>
+rect 9 29 11 31
+rect 9 21 11 23
+rect 21 29 23 31
+rect 21 19 23 21
+<< ptiect1 >>
+rect 9 5 11 7
+rect 19 5 21 7
+<< pdifct1 >>
+rect 9 67 11 69
+rect 9 59 11 61
+rect 21 89 23 91
+rect 21 79 23 81
+<< labels >>
+rlabel alu1 10 45 10 45 6 z
+rlabel alu1 15 6 15 6 6 vss
+rlabel alu1 20 50 20 50 6 a
+rlabel alu1 20 70 20 70 6 z
+rlabel alu1 15 94 15 94 6 vdd
+<< end >>

@@ -1,0 +1,141 @@
+timestamp 1635158097
+version 8.2
+tech scmos
+style pharosc200-55nm
+scale 1 1 5.5
+resistclasses 6700 7320 4090 4090 1207000 1207000 7360 87 57 57 57 57 20
+node "a_29_n19#" 14740 0 29 -19 ndif 55 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "out" 36634 25.2956 -7 -51 pdif 57 32 116 50 0 0 0 0 0 0 0 0 0 0 200 100 0 0 0 0 0 0 0 0 0 0
+equiv "out" "out"
+node "ainv" 230222 106.649 24 -59 p 57 32 116 50 0 0 0 0 0 0 0 0 136 124 391 172 0 0 0 0 0 0 0 0 0 0
+equiv "ainv" "ainv"
+equiv "ainv" "ainv"
+equiv "ainv" "ainv"
+node "tempand2" 199229 56.4951 14 -56 p 67 36 104 42 0 0 0 0 0 0 0 0 124 112 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "tempand2" "tempand2"
+equiv "tempand2" "tempand2"
+node "a_29_18#" 14740 0 29 18 ndif 55 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "b" 377694 151.826 34 -59 p 0 0 0 0 0 0 0 0 0 0 0 0 258 234 192 104 636 224 0 0 0 0 0 0 0 0
+equiv "b" "b"
+equiv "b" "b"
+equiv "b" "b"
+node "binv" 230317 97.6622 34 13 p 57 32 116 50 0 0 0 0 0 0 0 0 136 124 320 160 0 0 0 0 0 0 0 0 0 0
+equiv "binv" "binv"
+equiv "binv" "binv"
+equiv "binv" "binv"
+node "a" 377866 157.949 24 34 p 0 0 0 0 0 0 0 0 0 0 0 0 258 234 280 138 268 140 0 0 0 0 0 0 0 0
+equiv "a" "a"
+equiv "a" "a"
+equiv "a" "a"
+node "tempand1" 199229 56.4951 14 16 p 67 36 104 42 0 0 0 0 0 0 0 0 124 112 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "tempand1" "tempand1"
+equiv "tempand1" "tempand1"
+node "a_n15_50#" 30743 0 -15 50 pdif 0 0 105 52 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "outor" 205950 112.731 -37 25 ndif 57 32 116 50 0 0 0 0 0 0 0 0 122 110 302 158 324 170 0 0 0 0 0 0 0 0
+equiv "outor" "outor"
+equiv "outor" "outor"
+equiv "outor" "outor"
+node "tempor" 209156 45.3128 -30 17 p 48 28 117 56 0 0 0 0 0 0 0 0 122 110 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "tempor" "tempor"
+equiv "tempor" "tempor"
+node "outand1" 226831 102.03 -10 20 p 57 32 116 50 0 0 0 0 0 0 0 0 134 122 369 180 0 0 0 0 0 0 0 0 0 0
+equiv "outand1" "outand1"
+equiv "outand1" "outand1"
+equiv "outand1" "outand1"
+equiv "outand1" "outand1"
+node "outand2" 227641 121.471 -20 20 p 57 32 116 50 0 0 0 0 0 0 0 0 134 122 350 174 292 140 0 0 0 0 0 0 0 0
+equiv "outand2" "outand2"
+equiv "outand2" "outand2"
+equiv "outand2" "outand2"
+equiv "outand2" "z"
+node "vss" 3230137 287.008 -44 10 pw 902 360 0 0 0 0 432 216 0 0 7179 372 0 0 1720 264 0 0 0 0 0 0 0 0 0 0
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+node "vdd" 9684352 456.909 -44 37 nw 0 0 1282 450 432 216 0 0 10215 634 0 0 0 0 1720 462 732 358 0 0 0 0 0 0 0 0
+equiv "vdd" "vdd"
+equiv "vdd" "vdd"
+equiv "vdd" "vdd"
+equiv "vdd" "vdd"
+equiv "vdd" "vdd"
+node "ab_49_n67#" 0 0 49 -67 ab 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "ab_5_n67#" 0 0 5 -67 ab 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "ab_n39_5#" 0 0 -39 5 ab 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+cap "tempand1" "binv" 37.014
+cap "tempor" "vss" 24.834
+cap "binv" "vdd" 46.1351
+cap "outor" "out" 73.9668
+cap "ainv" "vss" 18.6956
+cap "tempand1" "vss" 72.8183
+cap "tempor" "a_n15_50#" 15.002
+cap "tempor" "outand1" 93.2841
+cap "ainv" "a" 97.2429
+cap "tempand2" "vss" 72.8183
+cap "tempor" "outor" 163.877
+cap "tempand1" "a" 154.698
+cap "outand2" "vss" 95.52
+cap "vdd" "a" 1.6038
+cap "b" "ainv" 196.969
+cap "tempand1" "outand1" 165.203
+cap "vdd" "a_n15_50#" 4.639
+cap "b" "vdd" 39.1655
+cap "vdd" "outand1" 10.54
+cap "vdd" "out" 15.0391
+cap "b" "tempand2" 29.245
+cap "binv" "vss" 18.6956
+cap "a_29_18#" "a" 4.9299
+cap "vdd" "outor" 207.232
+cap "outand2" "outand1" 229.194
+cap "outand2" "out" 89.4667
+cap "binv" "a" 158.586
+cap "tempor" "vdd" 82.4101
+cap "a_29_n19#" "ainv" 4.9299
+cap "binv" "b" 73.9668
+cap "tempor" "outand2" 109.33
+cap "a_29_n19#" "tempand2" 9.278
+cap "vdd" "ainv" 16.6429
+cap "tempand1" "vdd" 99.5424
+cap "vss" "a" 101.511
+cap "ainv" "tempand2" 157.806
+cap "b" "vss" 114.562
+cap "vdd" "tempand2" 99.5424
+cap "vss" "outand1" 45.2954
+cap "out" "vss" 17.0918
+cap "vdd" "outand2" 5.8224
+cap "tempand1" "a_29_18#" 9.278
+cap "outor" "vss" 55.134
+cap "b" "a" 65.4342
+cap "outand2" "tempand2" 165.203
+device mosfet pmos 58 -51 59 -50 2 18 "vdd" "a" 4 0 "ainv" 18 0 "vdd" 18 0
+device mosfet pmos 34 -54 35 -53 2 13 "vdd" "b" 4 0 "tempand2" 13 0 "vdd" 13 0
+device mosfet pmos 24 -54 25 -53 2 13 "vdd" "ainv" 4 0 "vdd" 13 0 "tempand2" 13 0
+device mosfet nmos 58 -21 59 -20 2 9 "vss" "a" 4 0 "ainv" 9 0 "vss" 9 0
+device mosfet pmos 14 -52 15 -51 2 18 "vdd" "tempand2" 4 0 "outand2" 18 0 "vdd" 18 0
+device mosfet pmos -9 -51 -8 -50 2 18 "vdd" "outor" 4 0 "vdd" 18 0 "out" 18 0
+device mosfet nmos 34 -19 35 -18 2 11 "vss" "b" 4 0 "a_29_n19#" 11 0 "tempand2" 11 0
+device mosfet nmos 27 -19 28 -18 2 11 "vss" "ainv" 4 0 "vss" 11 0 "a_29_n19#" 11 0
+device mosfet nmos 14 -19 15 -18 2 9 "vss" "tempand2" 4 0 "outand2" 9 0 "vss" 9 0
+device mosfet nmos -9 -21 -8 -20 2 9 "vss" "outor" 4 0 "vss" 9 0 "out" 9 0
+device mosfet nmos 58 22 59 23 2 9 "vss" "b" 4 0 "binv" 9 0 "vss" 9 0
+device mosfet nmos 34 18 35 19 2 11 "vss" "binv" 4 0 "a_29_18#" 11 0 "tempand1" 11 0
+device mosfet nmos 27 18 28 19 2 11 "vss" "a" 4 0 "vss" 11 0 "a_29_18#" 11 0
+device mosfet nmos 14 20 15 21 2 9 "vss" "tempand1" 4 0 "outand1" 9 0 "vss" 9 0
+device mosfet nmos -10 25 -9 26 2 6 "vss" "outand1" 4 0 "tempor" 6 0 "vss" 6 0
+device mosfet nmos -20 25 -19 26 2 6 "vss" "outand2" 4 0 "vss" 6 0 "tempor" 6 0
+device mosfet nmos -30 22 -29 23 2 9 "vss" "tempor" 4 0 "outor" 9 0 "vss" 9 0
+device mosfet pmos 58 43 59 44 2 18 "vdd" "b" 4 0 "binv" 18 0 "vdd" 18 0
+device mosfet pmos 34 51 35 52 2 13 "vdd" "binv" 4 0 "tempand1" 13 0 "vdd" 13 0
+device mosfet pmos 24 51 25 52 2 13 "vdd" "a" 4 0 "vdd" 13 0 "tempand1" 13 0
+device mosfet pmos 14 44 15 45 2 18 "vdd" "tempand1" 4 0 "outand1" 18 0 "vdd" 18 0
+device mosfet pmos -10 50 -9 51 2 21 "vdd" "outand1" 4 0 "a_n15_50#" 21 0 "tempor" 21 0
+device mosfet pmos -17 50 -16 51 2 21 "vdd" "outand2" 4 0 "vdd" 21 0 "a_n15_50#" 21 0
+device mosfet pmos -30 43 -29 44 2 18 "vdd" "tempor" 4 0 "outor" 18 0 "vdd" 18 0
+subcap "ainv" -34.64
+subcap "b" -86.5594
+subcap "binv" -90.0154
+subcap "tempand1" -50.0811
+subcap "outand1" -94.383
+subcap "outand2" -113.824
+subcap "a" -92.8173

@@ -1,0 +1,70 @@
+timestamp 1684074804
+version 8.3
+tech scmos
+style pharosc200-55nm
+scale 1 1 5.5
+resistclasses 6700 7320 4090 4090 1207000 1207000 7360 87 57 57 57 57 20
+node "a_25_18#" 14740 0 25 18 ndif 55 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "a_n16_18#" 14740 0 -16 18 ndif 55 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "a2" 193505 66.3626 30 13 p 0 0 0 0 0 0 0 0 0 0 0 0 136 124 88 52 0 0 0 0 0 0 0 0 0 0
+equiv "a2" "a2"
+node "a1" 193463 65.6967 20 34 p 0 0 0 0 0 0 0 0 0 0 0 0 136 124 101 54 0 0 0 0 0 0 0 0 0 0
+equiv "a1" "a1"
+node "zn1" 199229 56.4951 10 16 p 67 36 104 42 0 0 0 0 0 0 0 0 124 112 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "zn1" "zn1"
+equiv "zn1" "zn1"
+node "z" 36630 28.059 -38 20 ndif 57 32 116 50 0 0 0 0 0 0 0 0 0 0 217 104 0 0 0 0 0 0 0 0 0 0
+equiv "z" "z"
+node "z1" 230537 98.4242 -11 13 p 57 32 116 50 0 0 0 0 0 0 0 0 136 124 305 156 71 42 0 0 0 0 0 0 0 0
+equiv "z1" "z1"
+equiv "z1" "z1"
+equiv "z1" "z1"
+node "a3" 193463 65.6967 -21 34 p 0 0 0 0 0 0 0 0 0 0 0 0 136 124 101 54 0 0 0 0 0 0 0 0 0 0
+equiv "a3" "a3"
+node "zn" 199229 56.4951 -31 16 p 67 36 104 42 0 0 0 0 0 0 0 0 124 112 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "zn" "zn"
+equiv "zn" "zn"
+node "vss" 3052548 117.594 -45 0 pw 374 128 0 0 0 0 72 48 0 0 3367 256 0 0 680 186 0 0 0 0 0 0 0 0 0 0
+equiv "vss" "vss"
+node "vdd" 2595297 152.764 -45 37 nw 0 0 466 192 72 48 0 0 4095 272 0 0 0 0 680 186 0 0 0 0 0 0 0 0 0 0
+equiv "vdd" "vdd"
+node "ab_1_5#" 0 0 1 5 ab 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "ab_n40_5#" 0 0 -40 5 ab 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+cap "vss" "a1" 1.6038
+cap "zn1" "a1" 139.16
+cap "vdd" "zn1" 99.5424
+cap "vss" "z1" 46.8992
+cap "zn1" "z1" 165.203
+cap "zn1" "a_25_18#" 9.278
+cap "vdd" "a3" 1.6038
+cap "vss" "zn" 72.8183
+cap "zn" "z" 165.203
+cap "a3" "z1" 125.567
+cap "a2" "zn1" 29.245
+cap "vss" "a2" 1.6038
+cap "zn" "a3" 139.16
+cap "a_n16_18#" "zn" 9.278
+cap "vdd" "a1" 1.6038
+cap "vss" "zn1" 72.8183
+cap "vss" "z" 45.2954
+cap "a1" "a_25_18#" 4.9299
+cap "vss" "a3" 1.6038
+cap "a2" "a1" 125.567
+cap "vdd" "z1" 31.0959
+cap "a_n16_18#" "a3" 4.9299
+cap "vdd" "zn" 99.5424
+cap "zn" "z1" 41.6754
+cap "vdd" "a2" 31.0959
+device mosfet nmos 30 18 31 19 2 11 "vss" "a2" 4 0 "a_25_18#" 11 0 "zn1" 11 0
+device mosfet nmos 23 18 24 19 2 11 "vss" "a1" 4 0 "vss" 11 0 "a_25_18#" 11 0
+device mosfet nmos 10 20 11 21 2 9 "vss" "zn1" 4 0 "z1" 9 0 "vss" 9 0
+device mosfet nmos -11 18 -10 19 2 11 "vss" "z1" 4 0 "a_n16_18#" 11 0 "zn" 11 0
+device mosfet nmos -18 18 -17 19 2 11 "vss" "a3" 4 0 "vss" 11 0 "a_n16_18#" 11 0
+device mosfet nmos -31 20 -30 21 2 9 "vss" "zn" 4 0 "z" 9 0 "vss" 9 0
+device mosfet pmos 30 51 31 52 2 13 "vdd" "a2" 4 0 "zn1" 13 0 "vdd" 13 0
+device mosfet pmos 20 51 21 52 2 13 "vdd" "a1" 4 0 "vdd" 13 0 "zn1" 13 0
+device mosfet pmos 10 44 11 45 2 18 "vdd" "zn1" 4 0 "z1" 18 0 "vdd" 18 0
+device mosfet pmos -11 51 -10 52 2 13 "vdd" "z1" 4 0 "zn" 13 0 "vdd" 13 0
+device mosfet pmos -21 51 -20 52 2 13 "vdd" "a3" 4 0 "vdd" 13 0 "zn" 13 0
+device mosfet pmos -31 44 -30 45 2 18 "vdd" "zn" 4 0 "z" 18 0 "vdd" 18 0
+subcap "a2" -2.4554

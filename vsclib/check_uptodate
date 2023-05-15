@@ -1,0 +1,14 @@
+#/bin/bash
+
+echo > Makefile
+echo "SHELL=/bin/bash" >> Makefile
+echo >> Makefile
+
+target=mag
+prereq=ap
+
+ls -1 *.${target} | \
+  sed "s|^\(.*\)\(\.${target}\)$|\1\2: ../../../alliance/cells/vsclib/\1\.${prereq}\n\techo \"# Remake \1\2\"|" >> Makefile
+
+ls -1 *.${target} | \
+  sed 's|^\(.*\)$|make -s \1|' | bash

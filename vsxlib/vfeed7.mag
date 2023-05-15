@@ -1,0 +1,72 @@
+magic
+tech scmos
+timestamp 1199472718
+<< ab >>
+rect 0 0 70 100
+<< nwell >>
+rect -5 48 75 105
+<< pwell >>
+rect -5 -5 75 48
+<< alu1 >>
+rect -2 95 72 100
+rect -2 93 5 95
+rect 7 93 14 95
+rect 16 93 24 95
+rect 26 93 34 95
+rect 36 93 44 95
+rect 46 93 54 95
+rect 56 93 63 95
+rect 65 93 72 95
+rect -2 88 72 93
+rect -2 7 72 12
+rect -2 5 5 7
+rect 7 5 14 7
+rect 16 5 24 7
+rect 26 5 34 7
+rect 36 5 44 7
+rect 46 5 54 7
+rect 56 5 63 7
+rect 65 5 72 7
+rect -2 0 72 5
+<< ptie >>
+rect 3 7 67 39
+rect 3 5 5 7
+rect 7 5 14 7
+rect 16 5 24 7
+rect 26 5 34 7
+rect 36 5 44 7
+rect 46 5 54 7
+rect 56 5 63 7
+rect 65 5 67 7
+rect 3 3 67 5
+<< ntie >>
+rect 3 95 67 97
+rect 3 93 5 95
+rect 7 93 14 95
+rect 16 93 24 95
+rect 26 93 34 95
+rect 36 93 44 95
+rect 46 93 54 95
+rect 56 93 63 95
+rect 65 93 67 95
+rect 3 55 67 93
+<< ntiect1 >>
+rect 5 93 7 95
+rect 14 93 16 95
+rect 24 93 26 95
+rect 34 93 36 95
+rect 44 93 46 95
+rect 54 93 56 95
+rect 63 93 65 95
+<< ptiect1 >>
+rect 5 5 7 7
+rect 14 5 16 7
+rect 24 5 26 7
+rect 34 5 36 7
+rect 44 5 46 7
+rect 54 5 56 7
+rect 63 5 65 7
+<< labels >>
+rlabel ptiect1 35 6 35 6 6 vss
+rlabel ntiect1 35 94 35 94 6 vdd
+<< end >>

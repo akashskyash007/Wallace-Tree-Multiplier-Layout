@@ -1,0 +1,229 @@
+magic
+tech scmos
+timestamp 1199202603
+<< ab >>
+rect 0 0 56 72
+<< nwell >>
+rect -5 32 61 77
+<< pwell >>
+rect -5 -5 61 32
+<< poly >>
+rect 14 57 16 62
+rect 24 57 26 62
+rect 34 57 36 62
+rect 44 57 46 61
+rect 14 35 16 39
+rect 24 35 26 39
+rect 9 33 26 35
+rect 9 31 11 33
+rect 13 31 26 33
+rect 9 29 26 31
+rect 14 26 16 29
+rect 24 26 26 29
+rect 34 35 36 39
+rect 44 35 46 39
+rect 34 33 47 35
+rect 34 31 43 33
+rect 45 31 47 33
+rect 34 29 47 31
+rect 34 26 36 29
+rect 45 26 47 29
+rect 14 6 16 11
+rect 24 6 26 11
+rect 45 11 47 15
+rect 34 2 36 7
+<< ndif >>
+rect 9 18 14 26
+rect 7 16 14 18
+rect 7 14 9 16
+rect 11 14 14 16
+rect 7 11 14 14
+rect 16 24 24 26
+rect 16 22 19 24
+rect 21 22 24 24
+rect 16 11 24 22
+rect 26 23 34 26
+rect 26 21 29 23
+rect 31 21 34 23
+rect 26 16 34 21
+rect 26 14 29 16
+rect 31 14 34 16
+rect 26 11 34 14
+rect 29 7 34 11
+rect 36 15 45 26
+rect 47 24 54 26
+rect 47 22 50 24
+rect 52 22 54 24
+rect 47 20 54 22
+rect 47 15 52 20
+rect 36 13 39 15
+rect 41 13 43 15
+rect 36 7 43 13
+<< pdif >>
+rect 6 55 14 57
+rect 6 53 9 55
+rect 11 53 14 55
+rect 6 48 14 53
+rect 6 46 9 48
+rect 11 46 14 48
+rect 6 39 14 46
+rect 16 50 24 57
+rect 16 48 19 50
+rect 21 48 24 50
+rect 16 43 24 48
+rect 16 41 19 43
+rect 21 41 24 43
+rect 16 39 24 41
+rect 26 55 34 57
+rect 26 53 29 55
+rect 31 53 34 55
+rect 26 48 34 53
+rect 26 46 29 48
+rect 31 46 34 48
+rect 26 39 34 46
+rect 36 50 44 57
+rect 36 48 39 50
+rect 41 48 44 50
+rect 36 43 44 48
+rect 36 41 39 43
+rect 41 41 44 43
+rect 36 39 44 41
+rect 46 55 54 57
+rect 46 53 49 55
+rect 51 53 54 55
+rect 46 39 54 53
+<< alu1 >>
+rect -2 67 58 72
+rect -2 65 41 67
+rect 43 65 49 67
+rect 51 65 58 67
+rect -2 64 58 65
+rect 18 50 22 52
+rect 18 48 19 50
+rect 21 48 22 50
+rect 18 43 22 48
+rect 38 50 42 52
+rect 38 48 39 50
+rect 41 48 42 50
+rect 18 41 19 43
+rect 21 42 22 43
+rect 38 43 42 48
+rect 38 42 39 43
+rect 21 41 39 42
+rect 41 41 42 43
+rect 18 38 42 41
+rect 2 33 14 35
+rect 2 31 11 33
+rect 13 31 14 33
+rect 2 29 14 31
+rect 2 21 6 29
+rect 18 24 22 38
+rect 50 34 54 43
+rect 41 33 54 34
+rect 41 31 43 33
+rect 45 31 54 33
+rect 41 29 54 31
+rect 18 22 19 24
+rect 21 22 22 24
+rect 18 20 22 22
+rect -2 7 58 8
+rect -2 5 49 7
+rect 51 5 58 7
+rect -2 0 58 5
+<< ptie >>
+rect 47 7 53 9
+rect 47 5 49 7
+rect 51 5 53 7
+rect 47 3 53 5
+<< ntie >>
+rect 39 67 53 69
+rect 39 65 41 67
+rect 43 65 49 67
+rect 51 65 53 67
+rect 39 63 53 65
+<< nmos >>
+rect 14 11 16 26
+rect 24 11 26 26
+rect 34 7 36 26
+rect 45 15 47 26
+<< pmos >>
+rect 14 39 16 57
+rect 24 39 26 57
+rect 34 39 36 57
+rect 44 39 46 57
+<< polyct1 >>
+rect 11 31 13 33
+rect 43 31 45 33
+<< ndifct0 >>
+rect 9 14 11 16
+rect 29 21 31 23
+rect 29 14 31 16
+rect 50 22 52 24
+rect 39 13 41 15
+<< ndifct1 >>
+rect 19 22 21 24
+<< ntiect1 >>
+rect 41 65 43 67
+rect 49 65 51 67
+<< ptiect1 >>
+rect 49 5 51 7
+<< pdifct0 >>
+rect 9 53 11 55
+rect 9 46 11 48
+rect 29 53 31 55
+rect 29 46 31 48
+rect 49 53 51 55
+<< pdifct1 >>
+rect 19 48 21 50
+rect 19 41 21 43
+rect 39 48 41 50
+rect 39 41 41 43
+<< alu0 >>
+rect 8 55 12 64
+rect 8 53 9 55
+rect 11 53 12 55
+rect 8 48 12 53
+rect 27 55 33 64
+rect 27 53 29 55
+rect 31 53 33 55
+rect 8 46 9 48
+rect 11 46 12 48
+rect 8 44 12 46
+rect 27 48 33 53
+rect 48 55 52 64
+rect 48 53 49 55
+rect 51 53 52 55
+rect 27 46 29 48
+rect 31 46 33 48
+rect 27 45 33 46
+rect 48 51 52 53
+rect 28 24 54 25
+rect 28 23 50 24
+rect 28 21 29 23
+rect 31 22 50 23
+rect 52 22 54 24
+rect 31 21 54 22
+rect 28 17 33 21
+rect 7 16 33 17
+rect 7 14 9 16
+rect 11 14 29 16
+rect 31 14 33 16
+rect 7 13 33 14
+rect 38 15 42 17
+rect 38 13 39 15
+rect 41 13 42 15
+rect 38 8 42 13
+<< labels >>
+rlabel alu0 20 15 20 15 6 n1
+rlabel alu0 30 19 30 19 6 n1
+rlabel alu0 41 23 41 23 6 n1
+rlabel alu1 4 28 4 28 6 b
+rlabel polyct1 12 32 12 32 6 b
+rlabel alu1 20 36 20 36 6 z
+rlabel alu1 28 4 28 4 6 vss
+rlabel alu1 36 40 36 40 6 z
+rlabel alu1 28 40 28 40 6 z
+rlabel alu1 28 68 28 68 6 vdd
+rlabel polyct1 44 32 44 32 6 a
+rlabel alu1 52 36 52 36 6 a
+<< end >>

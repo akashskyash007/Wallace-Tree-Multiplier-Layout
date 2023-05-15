@@ -1,0 +1,245 @@
+magic
+tech scmos
+timestamp 1199202525
+<< ab >>
+rect 0 0 56 72
+<< nwell >>
+rect -5 32 61 77
+<< pwell >>
+rect -5 -5 61 32
+<< poly >>
+rect 22 64 24 69
+rect 32 64 34 69
+rect 45 66 47 70
+rect 9 57 11 61
+rect 45 45 47 48
+rect 41 43 47 45
+rect 41 41 43 43
+rect 45 41 47 43
+rect 9 27 11 39
+rect 22 37 24 40
+rect 16 35 24 37
+rect 32 37 34 40
+rect 41 39 47 41
+rect 32 35 37 37
+rect 16 33 18 35
+rect 20 33 24 35
+rect 16 31 24 33
+rect 35 33 41 35
+rect 35 31 37 33
+rect 39 31 41 33
+rect 22 29 30 31
+rect 9 25 16 27
+rect 28 26 30 29
+rect 35 29 41 31
+rect 35 26 37 29
+rect 45 26 47 39
+rect 9 23 12 25
+rect 14 23 16 25
+rect 9 21 16 23
+rect 9 18 11 21
+rect 9 4 11 9
+rect 45 12 47 17
+rect 28 2 30 6
+rect 35 2 37 6
+<< ndif >>
+rect 21 24 28 26
+rect 21 22 23 24
+rect 25 22 28 24
+rect 21 20 28 22
+rect 2 16 9 18
+rect 2 14 4 16
+rect 6 14 9 16
+rect 2 12 9 14
+rect 4 9 9 12
+rect 11 16 17 18
+rect 11 9 19 16
+rect 13 7 19 9
+rect 13 5 15 7
+rect 17 5 19 7
+rect 23 6 28 20
+rect 30 6 35 26
+rect 37 21 45 26
+rect 37 19 40 21
+rect 42 19 45 21
+rect 37 17 45 19
+rect 47 24 54 26
+rect 47 22 50 24
+rect 52 22 54 24
+rect 47 20 54 22
+rect 47 17 52 20
+rect 37 6 43 17
+rect 13 3 19 5
+<< pdif >>
+rect 36 64 45 66
+rect 14 57 22 64
+rect 4 52 9 57
+rect 2 50 9 52
+rect 2 48 4 50
+rect 6 48 9 50
+rect 2 43 9 48
+rect 2 41 4 43
+rect 6 41 9 43
+rect 2 39 9 41
+rect 11 55 16 57
+rect 18 55 22 57
+rect 11 40 22 55
+rect 24 52 32 64
+rect 24 50 27 52
+rect 29 50 32 52
+rect 24 44 32 50
+rect 24 42 27 44
+rect 29 42 32 44
+rect 24 40 32 42
+rect 34 62 38 64
+rect 40 62 45 64
+rect 34 57 45 62
+rect 34 55 38 57
+rect 40 55 45 57
+rect 34 48 45 55
+rect 47 54 52 66
+rect 47 52 54 54
+rect 47 50 50 52
+rect 52 50 54 52
+rect 47 48 54 50
+rect 34 40 39 48
+rect 11 39 16 40
+<< alu1 >>
+rect -2 67 58 72
+rect -2 65 5 67
+rect 7 65 58 67
+rect -2 64 58 65
+rect 26 52 30 54
+rect 26 50 27 52
+rect 29 50 30 52
+rect 17 46 30 50
+rect 26 44 30 46
+rect 34 45 46 51
+rect 26 42 27 44
+rect 29 42 30 44
+rect 9 25 18 26
+rect 9 23 12 25
+rect 14 23 18 25
+rect 9 22 18 23
+rect 14 18 18 22
+rect 26 22 30 42
+rect 42 43 46 45
+rect 42 41 43 43
+rect 45 41 46 43
+rect 42 37 46 41
+rect 14 14 31 18
+rect -2 7 58 8
+rect -2 5 15 7
+rect 17 5 49 7
+rect 51 5 58 7
+rect -2 0 58 5
+<< ptie >>
+rect 47 7 53 9
+rect 47 5 49 7
+rect 51 5 53 7
+rect 47 3 53 5
+<< ntie >>
+rect 3 67 9 69
+rect 3 65 5 67
+rect 7 65 9 67
+rect 3 63 9 65
+<< nmos >>
+rect 9 9 11 18
+rect 28 6 30 26
+rect 35 6 37 26
+rect 45 17 47 26
+<< pmos >>
+rect 9 39 11 57
+rect 22 40 24 64
+rect 32 40 34 64
+rect 45 48 47 66
+<< polyct0 >>
+rect 18 33 20 35
+rect 37 31 39 33
+<< polyct1 >>
+rect 43 41 45 43
+rect 12 23 14 25
+<< ndifct0 >>
+rect 23 22 25 24
+rect 4 14 6 16
+rect 40 19 42 21
+rect 50 22 52 24
+<< ndifct1 >>
+rect 15 5 17 7
+<< ntiect1 >>
+rect 5 65 7 67
+<< ptiect1 >>
+rect 49 5 51 7
+<< pdifct0 >>
+rect 4 48 6 50
+rect 4 41 6 43
+rect 16 55 18 57
+rect 38 62 40 64
+rect 38 55 40 57
+rect 50 50 52 52
+<< pdifct1 >>
+rect 27 50 29 52
+rect 27 42 29 44
+<< alu0 >>
+rect 14 57 20 64
+rect 14 55 16 57
+rect 18 55 20 57
+rect 14 54 20 55
+rect 36 62 38 64
+rect 40 62 42 64
+rect 36 57 42 62
+rect 36 55 38 57
+rect 40 55 42 57
+rect 36 54 42 55
+rect 3 50 7 52
+rect 49 52 53 54
+rect 3 48 4 50
+rect 6 48 7 50
+rect 3 43 7 48
+rect 3 41 4 43
+rect 6 41 7 43
+rect 3 36 7 41
+rect 2 35 22 36
+rect 2 33 18 35
+rect 20 33 22 35
+rect 2 32 22 33
+rect 2 17 6 32
+rect 21 24 26 26
+rect 21 22 23 24
+rect 25 22 26 24
+rect 49 50 50 52
+rect 52 50 53 52
+rect 49 34 53 50
+rect 35 33 53 34
+rect 35 31 37 33
+rect 39 31 53 33
+rect 35 30 53 31
+rect 49 24 53 30
+rect 21 21 27 22
+rect 39 21 43 23
+rect 39 19 40 21
+rect 42 19 43 21
+rect 49 22 50 24
+rect 52 22 53 24
+rect 49 20 53 22
+rect 2 16 8 17
+rect 2 14 4 16
+rect 6 14 8 16
+rect 2 13 8 14
+rect 39 8 43 19
+<< labels >>
+rlabel alu0 4 24 4 24 6 bn
+rlabel pdifct0 5 42 5 42 6 bn
+rlabel alu0 12 34 12 34 6 bn
+rlabel alu0 44 32 44 32 6 an
+rlabel alu0 51 37 51 37 6 an
+rlabel alu1 20 16 20 16 6 b
+rlabel alu1 12 24 12 24 6 b
+rlabel alu1 20 48 20 48 6 z
+rlabel alu1 28 4 28 4 6 vss
+rlabel alu1 28 16 28 16 6 b
+rlabel alu1 28 40 28 40 6 z
+rlabel alu1 36 48 36 48 6 a
+rlabel alu1 28 68 28 68 6 vdd
+rlabel alu1 44 44 44 44 6 a
+<< end >>

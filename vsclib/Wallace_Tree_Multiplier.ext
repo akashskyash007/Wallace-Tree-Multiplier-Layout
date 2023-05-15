@@ -1,0 +1,188 @@
+timestamp 1684146972
+version 8.3
+tech scmos
+style pharosc200-55nm
+scale 1 1 5.5
+resistclasses 6700 7320 4090 4090 1207000 1207000 7360 87 57 57 57 57 20
+node "a_13_n57#" 36600 0 13 -57 pdif 0 0 125 60 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "vdd" 93278 118.475 -25 -60 pdif 0 0 917 232 0 0 0 0 0 0 0 0 0 0 800 216 0 0 0 0 0 0 0 0 0 0
+node "res1" 53550 31.4037 43 -60 pdif 77 40 151 64 0 0 0 0 0 0 0 0 0 0 235 118 0 0 0 0 0 0 0 0 0 0
+equiv "res1" "res1"
+node "ha01" 55284 1.0932 4 -20 ndif 204 92 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "ha01" "ha01"
+node "res1_inv" 280980 72.0679 13 -20 ndif 112 44 164 66 0 0 0 0 0 0 0 0 160 148 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "res1_inv" "res1_inv"
+equiv "res1_inv" "res1_inv"
+node "a_n14_n20#" 26800 0 -14 -20 ndif 100 50 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "c01" 58570 27.5276 -34 -45 pdif 84 42 166 70 0 0 0 0 0 0 0 0 0 0 246 122 0 0 0 0 0 0 0 0 0 0
+equiv "c01" "c01"
+equiv "c01" "c01"
+equiv "c01" "c01"
+node "c01_inv" 506635 119.643 -29 -29 p 112 54 224 72 0 0 0 0 0 0 0 0 300 276 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "c01_inv" "c01_inv"
+equiv "c01_inv" "c01_inv"
+equiv "c01_inv" "c01_inv"
+equiv "c01_inv" "c01_inv"
+node "a_72_18#" 14740 0 72 18 ndif 55 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "a_29_18#" 14740 0 29 18 ndif 55 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "a_n11_18#" 14740 0 -11 18 ndif 55 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "res0" 36630 28.059 50 20 ndif 57 32 116 50 0 0 0 0 0 0 0 0 0 0 217 104 0 0 0 0 0 0 0 0 0 0
+equiv "res0" "res0"
+node "res0_inv" 199229 56.4951 57 16 p 67 36 104 42 0 0 0 0 0 0 0 0 124 112 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "res0_inv" "res0_inv"
+equiv "res0_inv" "a0b0_inv"
+node "a0b1" 501717 131.874 -19 -29 p 57 32 116 50 0 0 0 0 0 0 0 0 306 282 432 212 245 108 0 0 0 0 0 0 0 0
+equiv "a0b1" "a0b1"
+equiv "a0b1" "a0b1"
+equiv "a0b1" "a0b1"
+equiv "a0b1" "a0b1"
+equiv "a0b1" "a0b1"
+equiv "a0b1" "a0b1"
+node "b1" 193505 66.3626 34 13 p 0 0 0 0 0 0 0 0 0 0 0 0 136 124 88 52 0 0 0 0 0 0 0 0 0 0
+equiv "b1" "b1"
+node "a0" 403334 135.054 24 34 p 0 0 0 0 0 0 0 0 0 0 0 0 272 248 202 108 64 48 188 102 0 0 0 0 0 0
+equiv "a0" "a0"
+equiv "a0" "a0"
+equiv "a0" "a0"
+node "a0b1inv" 199229 56.4951 14 16 p 67 36 104 42 0 0 0 0 0 0 0 0 124 112 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "a0b1inv" "a0b1_inv"
+equiv "a0b1inv" "a0b1_inv"
+node "a1b0" 446365 141.209 -33 20 ndif 57 32 116 50 0 0 0 0 0 0 0 0 366 290 313 160 228 114 112 64 0 0 0 0 0 0
+equiv "a1b0" "a1b0"
+equiv "a1b0" "a1b0"
+equiv "a1b0" "a1b0"
+node "b0" 403761 141.777 -6 13 p 0 0 0 0 0 0 0 0 0 0 0 0 272 248 176 104 72 52 435 184 0 0 0 0 0 0
+equiv "b0" "b0"
+equiv "b0" "b0"
+equiv "b0" "b0"
+node "a1" 193463 65.6967 -16 34 p 0 0 0 0 0 0 0 0 0 0 0 0 136 124 101 54 0 0 0 0 0 0 0 0 0 0
+equiv "a1" "a1"
+node "a1b0inv" 199229 56.4951 -26 16 p 67 36 104 42 0 0 0 0 0 0 0 0 124 112 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "a1b0inv" "a1b0inv"
+equiv "a1b0inv" "a1b0inv"
+node "w_n49_n71#" 2843155 0 -49 -71 nw 0 0 0 0 0 0 0 0 4770 302 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "vss" 3918349 238.514 -49 -26 pw 824 292 0 0 0 0 108 72 0 0 7776 410 0 0 1725 302 0 0 0 0 0 0 0 0 0 0
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+node "vdd" 3811466 226.208 -40 37 nw 0 0 699 288 108 72 0 0 5985 356 0 0 0 0 1016 270 0 0 0 0 0 0 0 0 0 0
+equiv "vdd" "vdd"
+equiv "vdd" "vdd"
+node "ab_n44_n66#" 0 0 -44 -66 ab 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+cap "res1_inv" "c01_inv" 185.886
+cap "vdd" "c01_inv" 209.306
+cap "res0" "a0" 6.4339
+cap "a0" "a0b1inv" 147.374
+cap "vdd" "a0b1inv" 99.5424
+cap "a_n14_n20#" "vss" 4.639
+cap "ha01" "a1b0" 31.4647
+cap "vdd" "a1b0inv" 99.5424
+cap "c01" "a0b1" 11.7832
+cap "c01_inv" "a_n14_n20#" 12.486
+cap "res1_inv" "ha01" 97.0409
+cap "vss" "b0" 3.2076
+cap "a1" "vss" 1.6038
+cap "a_n11_18#" "a1b0inv" 9.278
+cap "a1b0inv" "a1b0" 166.187
+cap "a0" "b1" 126.155
+cap "a1" "b0" 125.567
+cap "c01_inv" "vss" 50.4671
+cap "a_72_18#" "a0" 6.955
+cap "vdd" "b1" 31.0959
+cap "vss" "res0_inv" 72.8183
+cap "res0_inv" "b0" 35.7597
+cap "a0b1" "a1b0" 309.804
+cap "c01" "a1b0" 12.9916
+cap "ha01" "vss" 83.9052
+cap "vdd" "a0" 3.2076
+cap "res1_inv" "a0b1" 109.524
+cap "vdd" "a0b1" 36.8206
+cap "ha01" "c01_inv" 12.4304
+cap "vdd" "c01" 4.639
+cap "a_13_n57#" "c01_inv" 12.14
+cap "res0" "vss" 45.2954
+cap "res0" "b0" 3.5024
+cap "vss" "a0b1inv" 72.8183
+cap "a0b1inv" "b0" 6.5147
+cap "a_29_18#" "a0b1inv" 9.278
+cap "a1b0inv" "vss" 72.8183
+cap "a1b0inv" "b0" 29.245
+cap "a1b0inv" "a1" 139.16
+cap "c01" "a_n14_n20#" 3.8684
+cap "res1_inv" "res1" 26.2853
+cap "vss" "b1" 1.6038
+cap "res0" "res0_inv" 165.203
+cap "b1" "b0" 2.0135
+cap "vdd" "res1" 52.9192
+cap "a0b1" "vss" 91.7437
+cap "a0b1" "b0" 54.0009
+cap "c01" "vss" 93.8501
+cap "vdd" "a1b0" 10.4646
+cap "c01_inv" "a0b1" 365.149
+cap "c01_inv" "c01" 201.088
+cap "vdd" "res1_inv" 5.8224
+cap "res0" "a0b1inv" 8.87886
+cap "a_72_18#" "res0_inv" 9.278
+cap "a0" "vss" 4.961
+cap "a_29_18#" "a0" 6.5205
+cap "a0" "b0" 128.37
+cap "vdd" "b0" 97.8254
+cap "a_n14_n20#" "a1b0" 1.7061
+cap "res1" "vss" 25.3563
+cap "vdd" "a1" 1.6038
+cap "ha01" "a0b1" 15.0836
+cap "a_13_n57#" "a0b1" 6.762
+cap "res1" "c01_inv" 29.5222
+cap "res0" "b1" 28.8563
+cap "b1" "a0b1inv" 29.245
+cap "vss" "a1b0" 101.084
+cap "a0b1" "a0b1inv" 165.611
+cap "a_n11_18#" "a1" 4.9299
+cap "a0" "res0_inv" 151.066
+cap "c01_inv" "a1b0" 90.9759
+cap "res1_inv" "vss" 13.5914
+cap "vdd" "res0_inv" 99.5424
+cap "a1b0inv" "a0b1" 15.538
+device mosfet pmos 41 -60 42 -59 2 25 "vdd" "res1_inv" 4 0 "vdd" 25 0 "res1" 25 0
+device mosfet pmos 28 -48 29 -47 2 13 "vdd" "c01_inv" 4 0 "res1_inv" 13 0 "vdd" 13 0
+device mosfet pmos 18 -57 19 -56 2 25 "vdd" "a0b1" 4 0 "a_13_n57#" 25 0 "res1_inv" 25 0
+device mosfet pmos 11 -57 12 -56 2 25 "vdd" "a1b0" 4 0 "vdd" 25 0 "a_13_n57#" 25 0
+device mosfet pmos -7 -60 -6 -59 2 28 "vdd" "a1b0" 4 0 "c01_inv" 28 0 "vdd" 28 0
+device mosfet pmos -17 -60 -16 -59 2 28 "vdd" "a0b1" 4 0 "vdd" 28 0 "c01_inv" 28 0
+device mosfet pmos -27 -60 -26 -59 2 28 "vdd" "c01_inv" 4 0 "c01" 28 0 "vdd" 28 0
+device mosfet nmos 41 -13 42 -12 2 13 "vss" "res1_inv" 4 0 "vss" 13 0 "res1" 13 0
+device mosfet nmos 31 -13 32 -12 2 10 "vss" "c01_inv" 4 0 "ha01" 10 0 "vss" 10 0
+device mosfet nmos 21 -20 22 -19 2 14 "vss" "a0b1" 4 0 "res1_inv" 14 0 "ha01" 14 0
+device mosfet nmos 11 -20 12 -19 2 14 "vss" "a1b0" 4 0 "ha01" 14 0 "res1_inv" 14 0
+device mosfet nmos -9 -20 -8 -19 2 20 "vss" "a1b0" 4 0 "a_n14_n20#" 20 0 "c01_inv" 20 0
+device mosfet nmos -16 -20 -15 -19 2 20 "vss" "a0b1" 4 0 "vss" 20 0 "a_n14_n20#" 20 0
+device mosfet nmos -27 -14 -26 -13 2 14 "vss" "c01_inv" 4 0 "c01" 14 0 "vss" 14 0
+device mosfet nmos 77 18 78 19 2 11 "vss" "b0" 4 0 "a_72_18#" 11 0 "res0_inv" 11 0
+device mosfet nmos 70 18 71 19 2 11 "vss" "a0" 4 0 "vss" 11 0 "a_72_18#" 11 0
+device mosfet nmos 57 20 58 21 2 9 "vss" "res0_inv" 4 0 "res0" 9 0 "vss" 9 0
+device mosfet nmos 34 18 35 19 2 11 "vss" "b1" 4 0 "a_29_18#" 11 0 "a0b1inv" 11 0
+device mosfet nmos 27 18 28 19 2 11 "vss" "a0" 4 0 "vss" 11 0 "a_29_18#" 11 0
+device mosfet nmos 14 20 15 21 2 9 "vss" "a0b1inv" 4 0 "a0b1" 9 0 "vss" 9 0
+device mosfet nmos -6 18 -5 19 2 11 "vss" "b0" 4 0 "a_n11_18#" 11 0 "a1b0inv" 11 0
+device mosfet nmos -13 18 -12 19 2 11 "vss" "a1" 4 0 "vss" 11 0 "a_n11_18#" 11 0
+device mosfet nmos -26 20 -25 21 2 9 "vss" "a1b0inv" 4 0 "a1b0" 9 0 "vss" 9 0
+device mosfet pmos 77 51 78 52 2 13 "vdd" "b0" 4 0 "res0_inv" 13 0 "vdd" 13 0
+device mosfet pmos 67 51 68 52 2 13 "vdd" "a0" 4 0 "vdd" 13 0 "res0_inv" 13 0
+device mosfet pmos 57 44 58 45 2 18 "vdd" "res0_inv" 4 0 "res0" 18 0 "vdd" 18 0
+device mosfet pmos 34 51 35 52 2 13 "vdd" "b1" 4 0 "a0b1inv" 13 0 "vdd" 13 0
+device mosfet pmos 24 51 25 52 2 13 "vdd" "a0" 4 0 "vdd" 13 0 "a0b1inv" 13 0
+device mosfet pmos 14 44 15 45 2 18 "vdd" "a0b1inv" 4 0 "a0b1" 18 0 "vdd" 18 0
+device mosfet pmos -6 51 -5 52 2 13 "vdd" "b0" 4 0 "a1b0inv" 13 0 "vdd" 13 0
+device mosfet pmos -16 51 -15 52 2 13 "vdd" "a1" 4 0 "vdd" 13 0 "a1b0inv" 13 0
+device mosfet pmos -26 44 -25 45 2 18 "vdd" "a1b0inv" 4 0 "a1b0" 18 0 "vdd" 18 0
+subcap "vdd" -68.4736
+subcap "res1" -7.2968
+subcap "res1_inv" -2.4656
+subcap "c01_inv" -2.4656
+subcap "a0b1" -20.9685
+subcap "b1" -58.7158
+subcap "a0b1inv" -50.0811
+subcap "b0" -134.13
+subcap "a1b0inv" -50.0811
+subcap "a0" -84.1864
+subcap "a1" -14.8295

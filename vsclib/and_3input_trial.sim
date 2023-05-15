@@ -1,0 +1,24 @@
+| units: 100 tech: scmos format: MIT
+n a2 a_25_18# zn1 2 11 30 18
+n z1 a_n16_18# zn 2 11 -10 18
+n a3 vss a_n16_18# 2 11 -17 18
+p a3 vdd zn 2 13 -20 51
+p zn1 z1 vdd 2 18 10 44
+p zn z vdd 2 18 -30 44
+p a2 zn1 vdd 2 13 30 51
+p z1 zn vdd 2 13 -10 51
+n zn1 z1 vss 2 9 10 20
+n zn z vss 2 9 -30 20
+n a1 vss a_25_18# 2 11 23 18
+p a1 vdd zn1 2 13 20 51
+R a_25_18# 15
+R a_n16_18# 15
+R a2 194
+R a1 193
+R zn1 199
+R z 37
+R z1 231
+R a3 193
+R zn 199
+R vss 3053
+R vdd 2595

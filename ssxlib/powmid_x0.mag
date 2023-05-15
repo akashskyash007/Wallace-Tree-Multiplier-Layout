@@ -1,0 +1,66 @@
+magic
+tech scmos
+timestamp 1199561971
+<< alu1 >>
+rect 8 101 32 103
+rect 8 100 9 101
+rect -2 99 9 100
+rect 11 99 19 101
+rect 21 99 29 101
+rect 31 100 32 101
+rect 31 99 72 100
+rect -2 88 72 99
+rect -2 1 72 12
+rect -2 0 39 1
+rect 38 -1 39 0
+rect 41 -1 49 1
+rect 51 -1 59 1
+rect 61 0 72 1
+rect 61 -1 62 0
+rect 38 -3 62 -1
+<< alu2 >>
+rect 8 101 32 103
+rect 8 99 9 101
+rect 11 99 19 101
+rect 21 99 29 101
+rect 31 99 32 101
+rect 8 97 32 99
+rect 38 1 62 3
+rect 38 -1 39 1
+rect 41 -1 49 1
+rect 51 -1 59 1
+rect 61 -1 62 1
+rect 38 -3 62 -1
+<< alu3 >>
+rect 8 101 32 103
+rect 8 99 9 101
+rect 11 99 19 101
+rect 21 99 29 101
+rect 31 99 32 101
+rect 8 -2 32 99
+rect 38 1 62 102
+rect 38 -1 39 1
+rect 41 -1 49 1
+rect 51 -1 59 1
+rect 61 -1 62 1
+rect 38 -3 62 -1
+<< via1 >>
+rect 9 99 11 101
+rect 19 99 21 101
+rect 29 99 31 101
+rect 39 -1 41 1
+rect 49 -1 51 1
+rect 59 -1 61 1
+<< via2 >>
+rect 9 99 11 101
+rect 19 99 21 101
+rect 29 99 31 101
+rect 39 -1 41 1
+rect 49 -1 51 1
+rect 59 -1 61 1
+<< labels >>
+rlabel alu1 35 6 35 6 6 vss
+rlabel alu1 35 94 35 94 6 vdd
+rlabel alu3 20 50 20 50 6 vdd
+rlabel alu3 50 50 50 50 6 vss
+<< end >>

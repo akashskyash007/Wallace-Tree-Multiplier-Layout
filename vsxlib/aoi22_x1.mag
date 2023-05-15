@@ -1,0 +1,222 @@
+magic
+tech scmos
+timestamp 1199469085
+<< ab >>
+rect 0 0 60 100
+<< nwell >>
+rect -5 48 65 105
+<< pwell >>
+rect -5 -5 65 48
+<< poly >>
+rect 11 94 13 98
+rect 23 94 25 98
+rect 35 94 37 98
+rect 47 94 49 98
+rect 11 43 13 55
+rect 23 52 25 55
+rect 35 52 37 55
+rect 23 49 27 52
+rect 35 50 43 52
+rect 35 49 39 50
+rect 25 43 27 49
+rect 37 48 39 49
+rect 41 48 43 50
+rect 37 46 43 48
+rect 11 41 21 43
+rect 15 39 17 41
+rect 19 39 21 41
+rect 15 37 21 39
+rect 25 41 33 43
+rect 25 39 29 41
+rect 31 39 33 41
+rect 25 37 33 39
+rect 17 34 19 37
+rect 25 34 27 37
+rect 37 34 39 46
+rect 47 43 49 55
+rect 47 41 53 43
+rect 47 40 49 41
+rect 45 39 49 40
+rect 51 39 53 41
+rect 45 37 53 39
+rect 45 34 47 37
+rect 17 12 19 17
+rect 25 12 27 17
+rect 37 12 39 17
+rect 45 12 47 17
+<< ndif >>
+rect 9 17 17 34
+rect 19 17 25 34
+rect 27 21 37 34
+rect 27 19 31 21
+rect 33 19 37 21
+rect 27 17 37 19
+rect 39 17 45 34
+rect 47 21 56 34
+rect 47 19 51 21
+rect 53 19 56 21
+rect 47 17 56 19
+rect 9 11 15 17
+rect 9 9 11 11
+rect 13 9 15 11
+rect 9 7 15 9
+<< pdif >>
+rect 6 83 11 94
+rect 3 81 11 83
+rect 3 79 5 81
+rect 7 79 11 81
+rect 3 77 11 79
+rect 6 55 11 77
+rect 13 71 23 94
+rect 13 69 17 71
+rect 19 69 23 71
+rect 13 55 23 69
+rect 25 81 35 94
+rect 25 79 29 81
+rect 31 79 35 81
+rect 25 71 35 79
+rect 25 69 29 71
+rect 31 69 35 71
+rect 25 55 35 69
+rect 37 91 47 94
+rect 37 89 41 91
+rect 43 89 47 91
+rect 37 81 47 89
+rect 37 79 41 81
+rect 43 79 47 81
+rect 37 55 47 79
+rect 49 83 54 94
+rect 49 81 57 83
+rect 49 79 53 81
+rect 55 79 57 81
+rect 49 73 57 79
+rect 49 71 53 73
+rect 55 71 57 73
+rect 49 69 57 71
+rect 49 55 54 69
+<< alu1 >>
+rect -2 91 62 100
+rect -2 89 41 91
+rect 43 89 62 91
+rect -2 88 62 89
+rect 3 81 33 82
+rect 3 79 5 81
+rect 7 79 29 81
+rect 31 79 33 81
+rect 3 78 33 79
+rect 8 71 23 73
+rect 8 69 17 71
+rect 19 69 23 71
+rect 8 68 23 69
+rect 27 72 33 78
+rect 40 81 44 88
+rect 40 79 41 81
+rect 43 79 44 81
+rect 40 77 44 79
+rect 52 81 56 83
+rect 52 79 53 81
+rect 55 79 56 81
+rect 52 73 56 79
+rect 52 72 53 73
+rect 27 71 53 72
+rect 55 71 56 73
+rect 27 69 29 71
+rect 31 69 56 71
+rect 27 68 56 69
+rect 8 22 12 68
+rect 17 58 32 63
+rect 18 43 22 53
+rect 16 41 22 43
+rect 16 39 17 41
+rect 19 39 22 41
+rect 16 37 22 39
+rect 28 41 32 58
+rect 28 39 29 41
+rect 31 39 32 41
+rect 28 37 32 39
+rect 38 58 53 63
+rect 38 50 42 58
+rect 38 48 39 50
+rect 41 48 42 50
+rect 38 37 42 48
+rect 48 41 52 53
+rect 48 39 49 41
+rect 51 39 52 41
+rect 18 32 22 37
+rect 48 32 52 39
+rect 18 27 33 32
+rect 37 27 52 32
+rect 8 21 35 22
+rect 8 19 31 21
+rect 33 19 35 21
+rect 8 17 35 19
+rect 50 21 54 23
+rect 50 19 51 21
+rect 53 19 54 21
+rect 50 12 54 19
+rect -2 11 62 12
+rect -2 9 11 11
+rect 13 9 62 11
+rect -2 7 62 9
+rect -2 5 39 7
+rect 41 5 49 7
+rect 51 5 62 7
+rect -2 0 62 5
+<< ptie >>
+rect 37 7 53 9
+rect 37 5 39 7
+rect 41 5 49 7
+rect 51 5 53 7
+rect 37 3 53 5
+<< nmos >>
+rect 17 17 19 34
+rect 25 17 27 34
+rect 37 17 39 34
+rect 45 17 47 34
+<< pmos >>
+rect 11 55 13 94
+rect 23 55 25 94
+rect 35 55 37 94
+rect 47 55 49 94
+<< polyct1 >>
+rect 39 48 41 50
+rect 17 39 19 41
+rect 29 39 31 41
+rect 49 39 51 41
+<< ndifct1 >>
+rect 31 19 33 21
+rect 51 19 53 21
+rect 11 9 13 11
+<< ptiect1 >>
+rect 39 5 41 7
+rect 49 5 51 7
+<< pdifct1 >>
+rect 5 79 7 81
+rect 17 69 19 71
+rect 29 79 31 81
+rect 29 69 31 71
+rect 41 89 43 91
+rect 41 79 43 81
+rect 53 79 55 81
+rect 53 71 55 73
+<< labels >>
+rlabel pdifct1 6 80 6 80 6 n3
+rlabel pdifct1 30 80 30 80 6 n3
+rlabel pdifct1 30 70 30 70 6 n3
+rlabel pdifct1 54 72 54 72 6 n3
+rlabel pdifct1 54 80 54 80 6 n3
+rlabel alu1 10 45 10 45 6 z
+rlabel alu1 20 20 20 20 6 z
+rlabel alu1 20 40 20 40 6 b1
+rlabel alu1 20 70 20 70 6 z
+rlabel alu1 20 60 20 60 6 b2
+rlabel alu1 30 20 30 20 6 z
+rlabel alu1 30 6 30 6 6 vss
+rlabel alu1 30 30 30 30 6 b1
+rlabel alu1 40 30 40 30 6 a1
+rlabel alu1 40 50 40 50 6 a2
+rlabel alu1 30 50 30 50 6 b2
+rlabel alu1 30 94 30 94 6 vdd
+rlabel polyct1 50 40 50 40 6 a1
+rlabel alu1 50 60 50 60 6 a2
+<< end >>
